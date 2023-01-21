@@ -40,11 +40,13 @@ func main() {
 	initFlags(&conf)
 	flag.Parse() // Parsed till a non-flag argument is found.
 
-	// Prints: Args: --project=MyFav,--agent,GCP_ID,get,--verbose,--duration=100s
-	fmt.Println("Args:", strings.Join(args, ",")) // ParseDuration parses a duration string.
+	// cmdline: ex2  --project="MyFav" --agent "GCP_ID" get --verbose --duration=100s
+
+	// Prints: Args: --project=MyFav, --agent, GCP_ID, get, --verbose, --duration=100s
+	fmt.Println("Args:", strings.Join(args, ", ")) // ParseDuration parses a duration string.
 	// Prints: Flags: projectID:MyFav agentID:GCP_ID verbose:false filename:, timeout:99ms
 	fmt.Printf("Flags: projectID:%s agentID:%s verbose:%t filename:%s, timeout:%s\n", conf.projectID, conf.agentID, conf.verbose, conf.filename, conf.timeout)
-	// Prints: Args: --verbose,--duration=100s
-	fmt.Printf("Args: %s\n", strings.Join(flag.Args(), ","))
+	// Prints: Args: get, --verbose, --duration=100s
+	fmt.Printf("Args: %s\n", strings.Join(flag.Args(), ", "))
 
 }
