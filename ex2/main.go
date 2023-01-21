@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-// ex3: Test the arguments and flags of the go command.
+// ex2: Test the arguments and flags of the go command.
 // flag.Parse() parses the command-line flags from os.Args[1:] until a non-flag argument is found.
 // Must be called after all flags are defined and before flags are accessed by the program.
 // Example: ex3 --project="MyFav" --agent "GCP_ID" get --verbose --duration=100s
