@@ -11,6 +11,9 @@ import (
 // ex3: Test the arguments and flags of the go command.
 // flag.Parse() parses the command-line flags from os.Args[1:] until a non-flag argument is found.
 // Must be called after all flags are defined and before flags are accessed by the program.
+// Example: ex3 --project="MyFav" --agent "GCP_ID" get --verbose --duration=100s
+//  flag.Parse() parses till "get" and flag.Args() returns the rest of the arguments.
+//  Means that --verbose --duration=100s are not parsed by flag.Parse() and are available in flag.Args().
 
 // config is the configuration for the program.
 type config struct {
@@ -35,14 +38,13 @@ func main() {
 	args := append([]string{}, os.Args[1:]...)
 	var conf config
 	initFlags(&conf)
-	flag.Parse()
+	flag.Parse() // Parsed till a non-flag argument is found.
 
-	if x, err := time.ParseDuration("199s"); err != nil {
-		fmt.Println("ParseDuration Error:", err)
-	} else {
-		fmt.Printf("x: %d, %[1]s\n", x)
-	}
-
-	fmt.Println("Args:", strings.Join(args, ","))
+	// Prints: Args: --project=MyFav,--agent,GCP_ID,get,--verbose,--duration=100s
+	fmt.Println("Args:", strings.Join(args, ",")) // ParseDuration parses a duration string.
+	// Prints: Flags: projectID:MyFav agentID:GCP_ID verbose:false filename:, timeout:99ms
 	fmt.Printf("Flags: projectID:%s agentID:%s verbose:%t filename:%s, timeout:%s\n", conf.projectID, conf.agentID, conf.verbose, conf.filename, conf.timeout)
+	// Prints: Args: --verbose,--duration=100s
+	fmt.Printf("Args: %s\n", strings.Join(flag.Args(), ","))
+
 }
