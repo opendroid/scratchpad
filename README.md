@@ -17,3 +17,8 @@ Example flag project. flag.Parse() parses flags until first non-flag.
 ## ex3
 
 Example designed multiple subcommands and their flags.
+
+## js
+
+Contains JS examples.
+ - t1.js tests JSON parsing and stringifying.
