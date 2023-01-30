@@ -1,0 +1,3 @@
+Babbage can perform straightforward tasks like simple classification. It’s also quite capable when it comes to Semantic Search ranking how well documents match up with search queries.
+
+Good at: Moderate classification, semantic search classification

@@ -22,3 +22,12 @@ Example designed multiple subcommands and their flags.
 
 Contains JS examples.
  - t1.js tests JSON parsing and stringifying.
+
+## OpenAI
+
+Contains examples of using OpenAI API.
+
+### ChatGPT
+
+ChatGPT is a chatbot that uses GPT-3 to generate responses to user input. This example tests the API and trains a model.
+
