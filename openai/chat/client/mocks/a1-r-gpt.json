@@ -1,0 +1,128 @@
+{
+  "insertId": "mrajanf8i7x3g",
+  "jsonPayload": {
+    "session_id": "f9658378-c557-3f27-9978-311589317eee",
+    "response": {
+      "responses": [
+        "Hello there, I apologize for the delay in your order. We would like to offer you a 20% credit as a gesture of goodwill for the inconvenience caused. Please let me know if you would like to keep the order and I will apply the credit. Thank you."
+      ],
+      "actions": [
+        {
+          "data": {
+            "summary": "The Suggested Agent Action is to offer a 20% credit if, and only if, the user wishes to keep the order."
+          },
+          "type": "ACTION_TYPE_TRANSFER_CHAT"
+        }
+      ]
+    },
+    "message": "Prompts sent to OpenAI.",
+    "message_id": "a62f4b7e-aae9-4f7a-a68a-771102cd70a4",
+    "prompts": {
+      "action": "The following chat between an Uber Eats customer, a support Bot, and you the Agent has occured:\nUser: Chat requested\nFinal User Request: Test toggle: falseTest photo upload: []\nAgent: Tanvi re-entered chat\nAgent: Ajay (ajayt@uber.com) connected to Tanvi\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Ajay ended chat\nAgent: undefined\n\n\nPolicy:\n\nFirst review the conversation and status and determine if the Order is late or on-time, and determine if the User wishes to Cancel the Order or not:\nIf Order is late then:\n    The Suggested Agent Action is to offer a 20% credit if, and only if, the user wishes to keep the order\nIf Order is late AND If the Final User Request is to NOT Cancel then:\n    The Suggested Agent Action is DO NOT offer the 20% credit again, thank the User for their patience, give the them a 20% credit, and let them know the order will be delivered as soon as possible do not say anything else\nIf Order is late AND If the Final User Request is to Cancel then:\n    The Suggested Agent Action is to Cancel the order free of charge and do NOT give a 20% credit\nIf Order is on-time then:\n    The Suggested Agent Action is to State the order is on-time and the user will be charged the full amount if they cancel now.\nIf Order is on-time AND If the Final User Request is to NOT Cancel then:\n    The Suggested Agent Action is do NOT Cancel the Order, Thank the user for their patience and let them know the order will be delivered as soon as possible, do not say anything else\nIf Order is on-time AND If the Final User Request is to Cancel then:\n    The Suggested Agent Action is to perform the User request and Cancel the order with the full charge, and do NOT give a 20% credit'\n        \nORDER STATUS: The order is late\nNoting the Final User Request and Strictly according to the Policy, tell the Agent what is the Suggested Agent Action based on the Final User Request?:",
+      "response": "The following chat between an Uber Eats customer, a support Bot, and you the Agent has occured:\nUser: Chat requested\nFinal User Request: Test toggle: falseTest photo upload: []\nAgent: Tanvi re-entered chat\nAgent: Ajay (ajayt@uber.com) connected to Tanvi\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Tanvi re-entered chat\nAgent: Ajay ended chat\nAgent: undefined\n\n\nPolicy:\nThe Suggested Agent Action is to offer a 20% credit if, and only if, the user wishes to keep the order.\nORDER STATUS: The order is late\nas the Agent, convert the Agent Suggested Action into a reply to User: "
+    },
+    "request": {
+      "prediction_type": "PREDICTION_TYPE_ASSIST_AGENT",
+      "previous_messages": [
+        {
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "value": "Chat requested",
+          "created_at": "1678834806744",
+          "id": "47061699-1f44-4a02-91f0-52e5e4ad58b9"
+        },
+        {
+          "value": "Test toggle: falseTest photo upload: []",
+          "created_at": "1678834806767",
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "id": "0bde24da-9a12-4182-b534-cf4b6a582cc7"
+        },
+        {
+          "type": "MESSAGE_TYPE_AGENT",
+          "created_at": "1678834807306",
+          "value": "Tanvi re-entered chat",
+          "id": "c33a1c66-0bcf-4ae2-bad2-30ba9372589e"
+        },
+        {
+          "id": "de81ae65-feb4-4355-96cb-11a8810851b2",
+          "created_at": "1678834809076",
+          "type": "MESSAGE_TYPE_AGENT",
+          "value": "Ajay (ajayt@uber.com) connected to Tanvi"
+        },
+        {
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "9d1a463e-7de7-4c85-a922-e780d40eb25f",
+          "created_at": "1678834853541"
+        },
+        {
+          "value": "Tanvi re-entered chat",
+          "id": "b72a47fe-610e-439d-b02a-21b10fc5e5a3",
+          "created_at": "1678834875401",
+          "type": "MESSAGE_TYPE_AGENT"
+        },
+        {
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "c8cddde7-527e-474a-a588-ce322a7264ba",
+          "created_at": "1678834918012"
+        },
+        {
+          "created_at": "1678835012027",
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "9582b6f2-bca2-4fa4-a3e6-72d719c67ef5"
+        },
+        {
+          "created_at": "1678835038947",
+          "id": "3e61af5b-5a91-4cd5-8926-3193d6807888",
+          "type": "MESSAGE_TYPE_AGENT",
+          "value": "Tanvi re-entered chat"
+        },
+        {
+          "value": "Tanvi re-entered chat",
+          "id": "787b8e6a-31ad-4938-aaad-2d47efa37ded",
+          "type": "MESSAGE_TYPE_AGENT",
+          "created_at": "1678835038639"
+        },
+        {
+          "id": "6e1929c4-e145-4920-8a71-d61ecd0e7afb",
+          "value": "Ajay ended chat",
+          "type": "MESSAGE_TYPE_AGENT",
+          "created_at": "1678835262909"
+        }
+      ],
+      "message": {
+        "value": "undefined",
+        "id": "a62f4b7e-aae9-4f7a-a68a-771102cd70a4",
+        "created_at": "1678835263574",
+        "type": "MESSAGE_TYPE_AGENT"
+      },
+      "session_id": "f9658378-c557-3f27-9978-311589317eee",
+      "options": {
+        "adapt_tone": true
+      },
+      "context": {
+        "order": {
+          "cancel_info": {},
+          "order_status_info": {
+            "order_offered_unix_ms": "1678836835"
+          },
+          "courier_info": {},
+          "canceled_order_charge_info": {},
+          "restaurant": {}
+        }
+      }
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "project_id": "sau2020",
+      "region": "us-central1",
+      "function_name": "charge-api"
+    }
+  },
+  "timestamp": "2023-03-14T23:33:04.786044750Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:33:04.786044750Z"
+}

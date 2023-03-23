@@ -1,0 +1,220 @@
+{
+  "insertId": "1jhuaxefljj97c",
+  "jsonPayload": {
+    "httpRequest": {
+      "prediction_type": 1,
+      "context": {
+        "order": {
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "fulfillment_type": 2,
+          "quoted_eta_unix": 1678838700,
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "quoted_lab_unix": 1678840800,
+          "restaurant": {
+            "title": "skt's Royal Tearoom",
+            "is_address_available": true,
+            "is_phone_number_available": true,
+            "is_orderable": true
+          },
+          "max_eta_unix": 1678840800,
+          "order_status": 3,
+          "order_time": 1678836496,
+          "order_category": 2,
+          "order_status_info": {
+            "order_offered_unix_ms": 1678836496986,
+            "order_accepted_unix_ms": 1678836496986
+          },
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "deliver_eta_unix": 1678838699,
+          "interaction_type": "curbside",
+          "pickup_eta_unix": 1678837097
+        }
+      },
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "message": {
+        "value": "Did courier pick up my order",
+        "id": "bbeb9caf-005d-455a-940e-490a4b1ef1e8",
+        "type": 2,
+        "created_at": "1678836759911"
+      },
+      "previous_messages": [
+        {
+          "created_at": "1678836520244",
+          "id": "9f2a820e-a0cb-4ecc-9a40-022e65bdb03a",
+          "type": 3,
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱"
+        },
+        {
+          "type": 2,
+          "value": "Where is my order",
+          "id": "151d8836-8db2-42e1-b6a3-a1be48c7dd15",
+          "created_at": "1678836558069"
+        },
+        {
+          "id": "a6d5831c-3c5b-4b0d-93bb-251bbbfe0309",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "type": 3,
+          "created_at": "1678836563779"
+        },
+        {
+          "id": "2cc2da13-ccf7-409f-9d7f-d0a96a867390",
+          "value": "Will I be updated when it’s on the way",
+          "type": 2,
+          "created_at": "1678836614692"
+        },
+        {
+          "id": "6572c01d-354a-4e3e-b603-dca1638d4e55",
+          "type": 3,
+          "value": "Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.",
+          "created_at": "1678836619713"
+        },
+        {
+          "id": "2b375cf1-5dee-4a3b-bd4c-4cb61c9d1b7c",
+          "created_at": "1678836665495",
+          "type": 2,
+          "value": "The food driver is driving in wrong direction"
+        },
+        {
+          "created_at": "1678836670646",
+          "type": 3,
+          "value": "It looks like your order is still on track to be delivered by 05:05PM. If the delivery person is driving in the wrong direction, please contact them directly.",
+          "id": "964db352-0e9f-468b-9952-2e1c89f195b7"
+        },
+        {
+          "id": "7b42b0e6-ef67-401e-ac95-c0c7f836c9d8",
+          "created_at": "1678836708024",
+          "value": "I paid priority express I want my money back",
+          "type": 2
+        },
+        {
+          "value": "Your order from skt's Royal Tearoom is on track to be delivered by 05:04PM. If the order is delayed and you had priority express, the priority express fees will be refunded.",
+          "id": "0e61030b-d6cf-4ded-9d1b-2ea8805d0a04",
+          "type": 3,
+          "created_at": "1678836713334"
+        }
+      ]
+    },
+    "request": {
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "prediction_type": "PREDICTION_TYPE_SUGGEST_RESPONSE",
+      "context": {
+        "order": {
+          "order_time": "1678836496",
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "interaction_type": "curbside",
+          "quoted_eta_unix": "1678838700",
+          "pickup_eta_unix": "1678837097",
+          "fulfillment_type": "FULFILLMENT_TYPE_DELIVERY",
+          "order_status": "EATS_ORDER_STATUS_PREPARING",
+          "quoted_lab_unix": "1678840800",
+          "order_status_info": {
+            "order_accepted_unix_ms": "1678836496986",
+            "order_offered_unix_ms": "1678836496986"
+          },
+          "deliver_eta_unix": "1678838699",
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "order_category": "ORDER_CATEGORY_DEFAULT",
+          "max_eta_unix": "1678840800",
+          "restaurant": {
+            "title": "skt's Royal Tearoom",
+            "is_orderable": true,
+            "is_phone_number_available": true,
+            "is_address_available": true
+          }
+        }
+      },
+      "message": {
+        "type": "MESSAGE_TYPE_CUSTOMER",
+        "value": "Did courier pick up my order",
+        "id": "bbeb9caf-005d-455a-940e-490a4b1ef1e8",
+        "created_at": "1678836759911"
+      },
+      "previous_messages": [
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "created_at": "1678836520244",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "id": "9f2a820e-a0cb-4ecc-9a40-022e65bdb03a"
+        },
+        {
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "created_at": "1678836558069",
+          "id": "151d8836-8db2-42e1-b6a3-a1be48c7dd15",
+          "value": "Where is my order"
+        },
+        {
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "created_at": "1678836563779",
+          "id": "a6d5831c-3c5b-4b0d-93bb-251bbbfe0309",
+          "type": "MESSAGE_TYPE_BOT"
+        },
+        {
+          "created_at": "1678836614692",
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "value": "Will I be updated when it’s on the way",
+          "id": "2cc2da13-ccf7-409f-9d7f-d0a96a867390"
+        },
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "value": "Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.",
+          "created_at": "1678836619713",
+          "id": "6572c01d-354a-4e3e-b603-dca1638d4e55"
+        },
+        {
+          "value": "The food driver is driving in wrong direction",
+          "id": "2b375cf1-5dee-4a3b-bd4c-4cb61c9d1b7c",
+          "created_at": "1678836665495",
+          "type": "MESSAGE_TYPE_CUSTOMER"
+        },
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "created_at": "1678836670646",
+          "value": "It looks like your order is still on track to be delivered by 05:05PM. If the delivery person is driving in the wrong direction, please contact them directly.",
+          "id": "964db352-0e9f-468b-9952-2e1c89f195b7"
+        },
+        {
+          "created_at": "1678836708024",
+          "value": "I paid priority express I want my money back",
+          "id": "7b42b0e6-ef67-401e-ac95-c0c7f836c9d8",
+          "type": "MESSAGE_TYPE_CUSTOMER"
+        },
+        {
+          "id": "0e61030b-d6cf-4ded-9d1b-2ea8805d0a04",
+          "value": "Your order from skt's Royal Tearoom is on track to be delivered by 05:04PM. If the order is delayed and you had priority express, the priority express fees will be refunded.",
+          "created_at": "1678836713334",
+          "type": "MESSAGE_TYPE_BOT"
+        }
+      ]
+    },
+    "message": "Response Sent",
+    "response": {
+      "responses": [
+        "skt's Royal Tearoom is preparing your order, and it's on track to be delivered by 05:04PM. ✅"
+      ]
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "region": "us-central1",
+      "project_id": "sau2020",
+      "function_name": "charge-api"
+    }
+  },
+  "timestamp": "2023-03-14T23:32:44.591190988Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:32:44.591190988Z"
+}

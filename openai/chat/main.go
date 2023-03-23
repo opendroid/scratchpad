@@ -1,8 +1,9 @@
 package main
 
 import (
-	"client"
 	"fmt"
+
+	"github.com/opendroid/scratchpad/openai/chat/client"
 )
 
 func main() {

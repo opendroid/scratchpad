@@ -1,0 +1,19 @@
+{
+  "insertId": "dlwq3yfddanq0",
+  "jsonPayload": {
+    "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+    "bot": "Bot: Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱\n",
+    "message": "Conversation ongoing: Agent state updated"
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "region": "us-central1",
+      "function_name": "charge-api",
+      "project_id": "sau2020"
+    }
+  },
+  "timestamp": "2023-03-14T23:28:39.776943740Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:28:39.776943740Z"
+}

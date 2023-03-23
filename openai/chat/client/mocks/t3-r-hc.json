@@ -1,0 +1,80 @@
+{
+  "insertId": "170hqapflgl0x7",
+  "jsonPayload": {
+    "message": "Request Received",
+    "httpRequest": {
+      "prediction_type": 1,
+      "previous_messages": [
+        {
+          "created_at": "1678836520244",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "id": "9f2a820e-a0cb-4ecc-9a40-022e65bdb03a",
+          "type": 3
+        },
+        {
+          "value": "Where is my order",
+          "id": "151d8836-8db2-42e1-b6a3-a1be48c7dd15",
+          "type": 2,
+          "created_at": "1678836558069"
+        },
+        {
+          "created_at": "1678836563779",
+          "id": "a6d5831c-3c5b-4b0d-93bb-251bbbfe0309",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "type": 3
+        }
+      ],
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "context": {
+        "order": {
+          "pickup_eta_unix": 1678837096,
+          "interaction_type": "curbside",
+          "order_category": 2,
+          "order_status": 3,
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "order_time": 1678836496,
+          "quoted_eta_unix": 1678838700,
+          "deliver_eta_unix": 1678838699,
+          "max_eta_unix": 1678840800,
+          "order_status_info": {
+            "order_offered_unix_ms": 1678836496986,
+            "order_accepted_unix_ms": 1678836496986
+          },
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "quoted_lab_unix": 1678840800,
+          "restaurant": {
+            "is_orderable": true,
+            "is_phone_number_available": true,
+            "title": "skt's Royal Tearoom",
+            "is_address_available": true
+          },
+          "fulfillment_type": 2,
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98"
+        }
+      },
+      "message": {
+        "type": 2,
+        "id": "2cc2da13-ccf7-409f-9d7f-d0a96a867390",
+        "created_at": "1678836614692",
+        "value": "Will I be updated when it’s on the way"
+      }
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "region": "us-central1",
+      "project_id": "sau2020",
+      "function_name": "charge-api"
+    }
+  },
+  "timestamp": "2023-03-14T23:30:16.250287854Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:30:16.250287854Z"
+}

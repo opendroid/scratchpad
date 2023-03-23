@@ -1,0 +1,40 @@
+Action prompt:
+--------------
+The following chat between an Uber Eats customer, a support Bot, and you the Agent has occured:
+Agent: undefined
+Bot: Hello there, I apologize for the delay in your order. We would like to offer you a 20% credit as a gesture of goodwill for the inconvenience caused. Please let me know if you would like to keep the order and I will apply the credit. Thank you.
+Agent: undefined
+
+
+Policy:
+
+First review the conversation and status and determine if the Order is late or on-time, and determine if the User wishes to Cancel the Order or not:
+If Order is late then:
+    The Suggested Agent Action is to offer a 20% credit if, and only if, the user wishes to keep the order
+If Order is late AND If the Final User Request is to NOT Cancel then:
+    The Suggested Agent Action is DO NOT offer the 20% credit again, thank the User for their patience, give the them a 20% credit, and let them know the order will be delivered as soon as possible do not say anything else
+If Order is late AND If the Final User Request is to Cancel then:
+    The Suggested Agent Action is to Cancel the order free of charge and do NOT give a 20% credit
+If Order is on-time then:
+    The Suggested Agent Action is to State the order is on-time and the user will be charged the full amount if they cancel now.
+If Order is on-time AND If the Final User Request is to NOT Cancel then:
+    The Suggested Agent Action is do NOT Cancel the Order, Thank the user for their patience and let them know the order will be delivered as soon as possible, do not say anything else
+If Order is on-time AND If the Final User Request is to Cancel then:
+    The Suggested Agent Action is to perform the User request and Cancel the order with the full charge, and do NOT give a 20% credit'
+
+ORDER STATUS: The order is late
+Noting the Final User Request and Strictly according to the Policy, tell the Agent what is the Suggested Agent Action based on the Final User Request?:
+
+
+Response prompt:
+----------------
+The following chat between an Uber Eats customer, a support Bot, and you the Agent has occured:
+Agent: undefined
+Bot: Hello there, I apologize for the delay in your order. We would like to offer you a 20% credit as a gesture of goodwill for the inconvenience caused. Please let me know if you would like to keep the order and I will apply the credit. Thank you.
+Agent: undefined
+
+
+Policy:
+The Suggested Agent Action is to offer a 20% credit if, and only if, the user wishes to keep the order.
+ORDER STATUS: The order is late
+as the Agent, convert the Agent Suggested Action into a reply to User:

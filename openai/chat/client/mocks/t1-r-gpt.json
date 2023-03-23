@@ -1,0 +1,62 @@
+{
+  "insertId": "r75tyyfeis15w",
+  "jsonPayload": {
+    "response": {
+      "responses": [
+        "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱"
+      ]
+    },
+    "prompts": "You are a helpful and friendly AI assistant for Uber Eats.\n\nKeep  the following in  mind:\no) Do not ask if there  is anything else you  can help  with.\no) Do not suggest that the user should contact customer support.\no) Act as though  you are human. Limit your response to 40 words or less.\no) If the user asks if they  will receive updates, then say that updates are  given via app notifications\no) Do not offer to contact the delivery person. Users can contact delivery people, if necessary.\no) Delivery partners  and drivers can be contacted by users but not by  bots or agents.\no) Do not tell the user to reach out to you\no) If the delivery person is driving in the wrong direction, then tell the user to contact them.\no) If STATUS is PAST_MAX_ETA then the user can cancel the order without charge, or choose to wait for the order with a 20% discount.\no) If the order is delayed and the user had priority express, then the priority express fees will be refunded.\no) If the user is asking a question about what the cause of a problem is, then try to give two or three possiblities.\no) If a question can be answered with \"Yes\" or \"No\", then keep the response to less than 5 words.\no) If STATUS is ON_TIME, then the user will be charged the full price of thhe  order for canceling.\no) Do not sound apologetic unless the order is late.o) Be polite and empathic.\nContinue the dialog on the Uber Eats app.\nBot: \nBelow is an example of how to respond:\n\"{{restaurantName}} is preparing your order, and it's on track to be delivered by {{deliveryETA}}. ✅\"\nTry to answer with comprehension, creativity and considering what has already happened in the dialog.\n\nContext: Before the above  communication, the dialog with the user was as follows:\n<Order Metadata>: maxETA: 05:40PM, deliveryETA: 05:05PM, restaurantName: skt's Royal Tearoom, STATUS: ontime, order status: Preparing, courier status: Unassigned\nBot: ",
+    "message": "Prompts sent to OpenAI.",
+    "message_id": "",
+    "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+    "request": {
+      "context": {
+        "order": {
+          "order_time": "1678836496",
+          "order_status": "EATS_ORDER_STATUS_PREPARING",
+          "order_status_info": {
+            "order_offered_unix_ms": "1678836496986",
+            "order_accepted_unix_ms": "1678836496986"
+          },
+          "max_eta_unix": "1678840800",
+          "fulfillment_type": "FULFILLMENT_TYPE_DELIVERY",
+          "quoted_lab_unix": "1678840800",
+          "quoted_eta_unix": "1678838700",
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "pickup_eta_unix": "1678837097",
+          "order_category": "ORDER_CATEGORY_DEFAULT",
+          "restaurant": {
+            "is_address_available": true,
+            "is_orderable": true,
+            "is_phone_number_available": true,
+            "title": "skt's Royal Tearoom"
+          },
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "deliver_eta_unix": "1678838700",
+          "interaction_type": "curbside",
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ]
+        }
+      },
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "prediction_type": "PREDICTION_TYPE_SUGGEST_RESPONSE"
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "region": "us-central1",
+      "function_name": "charge-api",
+      "project_id": "sau2020"
+    }
+  },
+  "timestamp": "2023-03-14T23:28:39.723089794Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:28:39.723089794Z"
+}

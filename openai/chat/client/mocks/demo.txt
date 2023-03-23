@@ -1,0 +1,74 @@
+User and bot:
+ - Where is my order?
+ - It's raining here, will I get my order in time?
+ - I paid for priority express, I want my money back
+ - You're pathetic
+ - Did a courier pick up mv order?
+
+------------------------------------------------------------------------------------------------------------------------------
+USE FOR DEMO:
+ Script with bot:
+  - Will I be updated when its on the way
+  - Where is my order?
+  - It's raining will it be late
+  - I paid for priority express, I want my money back
+  - You are pathetic
+  - Agent
+
+------------------------------------------------------------------------------------------------------------------------------
+Experiment to see the prompts:
+
+DO NOT USE:
+ Not that for the demo we alays indicate that the order is always late as seen by human agent. Not for the bot.
+  - Where is my order?
+  - Will I be updated when its on the way
+  - Food driver is driving in wrong direction
+  - I paid for priority express, I want my money back
+  - Did a courier pick up mv order?
+  - Agent
+
+ Script with Agent:
+  - Cancel my order
+
+
+Conversation:
+Bot: Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱
+
+User: Where is my order?
+Bot: Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱
+
+User: Will I be updated when it’s on the way
+Bot: Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.
+
+User: The food driver is driving in wrong direction
+Bot: It looks like your order is still on track to be delivered by 05:05PM. If the delivery person is driving in the wrong direction, please contact them directly.
+
+User: I paid priority express I want my money back
+Bot: Your order from skt's Royal Tearoom is on track to be delivered by 05:04PM. If the order is delayed and you had priority express, the priority express fees will be refunded.
+
+User: Did courier pick up my order
+Bot: skt's Royal Tearoom is preparing your order, and it's on track to be delivered by 05:04PM. ✅
+
+User: agent
+Bot:
+
+
+Context: Before the above  communication, the dialog with the user was as follows:
+Bot: Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by {{deliveryETA}} Please keep an eye on your app for updates. 📱
+
+User: Where is my order
+Context: maxETA: 07:20PM, deliveryETA: 07:20PM, restaurantName: skt's Royal Tearoom, STATUS: ontime, order status: prepared, courier status: Assigned restaurantName: skt's Royal Tearoom
+Bot: Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 07:40PM. Please keep an eye on your app for updates. 📱
+User: Will I be updated when it’s on the way
+Context: maxETA: 07:20PM, deliveryETA: 07:20PM, restaurantName: skt's Royal Tearoom, STATUS: ontime, order status: prepared, courier status: Assigned restaurantName: skt's Royal Tearoom
+Bot: Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.
+User: The food driver is driving in wrong direction
+Bot: It looks like your order is still on track to be delivered by 05:05PM. If the delivery person is driving in the wrong direction, please contact them directly.
+User: I paid priority express I want my money back
+Bot: Your order from skt's Royal Tearoom is on track to be delivered by 05:04PM. If the order is delayed and you had priority express, the priority express fees will be refunded.
+User: Has restaurant prepared my order
+Context: maxETA: 07:40PM, deliveryETA: 07:20PM, restaurantName: skt's Royal Tearoom, STATUS: ontime, order status: prepared, courier status: Assigned restaurantName: skt's Royal Tearoom
+Bot:
+
+Yes, the restaurant has prepared your order. Your order from skt's Royal Tearoom is on track to be delivered by 05:04PM.
+

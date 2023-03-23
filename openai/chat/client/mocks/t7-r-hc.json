@@ -1,0 +1,116 @@
+{
+  "insertId": "mhfy5dfejjrfx",
+  "jsonPayload": {
+    "message": "Request Received",
+    "httpRequest": {
+      "sessionId": "f9658378-c557-3f27-9978-311589317eee",
+      "context": {
+        "order": {
+          "cancel_info": {},
+          "interaction_type": "",
+          "switch_to_pick_up_enabled": false,
+          "canceled_order_charge_info": {},
+          "courier_info": {},
+          "restaurant": {
+            "is_phone_number_available": false,
+            "is_address_available": false
+          },
+          "order_status_info": {
+            "order_offered_unix_ms": 1678836835
+          },
+          "contains_alcohol": false
+        }
+      },
+      "predictionType": "PREDICTION_TYPE_ASSIST_AGENT",
+      "previousMessages": [
+        {
+          "created_at": "1678834806744",
+          "value": "Chat requested",
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "id": "47061699-1f44-4a02-91f0-52e5e4ad58b9"
+        },
+        {
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "id": "0bde24da-9a12-4182-b534-cf4b6a582cc7",
+          "value": "Test toggle: falseTest photo upload: []",
+          "created_at": "1678834806767"
+        },
+        {
+          "created_at": "1678834807306",
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "c33a1c66-0bcf-4ae2-bad2-30ba9372589e"
+        },
+        {
+          "type": "MESSAGE_TYPE_AGENT",
+          "value": "Ajay (ajayt@uber.com) connected to Tanvi",
+          "id": "de81ae65-feb4-4355-96cb-11a8810851b2",
+          "created_at": "1678834809076"
+        },
+        {
+          "created_at": "1678834853541",
+          "id": "9d1a463e-7de7-4c85-a922-e780d40eb25f",
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT"
+        },
+        {
+          "created_at": "1678834875401",
+          "id": "b72a47fe-610e-439d-b02a-21b10fc5e5a3",
+          "value": "Tanvi re-entered chat",
+          "type": "MESSAGE_TYPE_AGENT"
+        },
+        {
+          "id": "c8cddde7-527e-474a-a588-ce322a7264ba",
+          "created_at": "1678834918012",
+          "type": "MESSAGE_TYPE_AGENT",
+          "value": "Tanvi re-entered chat"
+        },
+        {
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "9582b6f2-bca2-4fa4-a3e6-72d719c67ef5",
+          "value": "Tanvi re-entered chat",
+          "created_at": "1678835012027"
+        },
+        {
+          "type": "MESSAGE_TYPE_AGENT",
+          "created_at": "1678835038947",
+          "value": "Tanvi re-entered chat",
+          "id": "3e61af5b-5a91-4cd5-8926-3193d6807888"
+        },
+        {
+          "type": "MESSAGE_TYPE_AGENT",
+          "id": "787b8e6a-31ad-4938-aaad-2d47efa37ded",
+          "created_at": "1678835038639",
+          "value": "Tanvi re-entered chat"
+        },
+        {
+          "value": "Ajay ended chat",
+          "id": "6e1929c4-e145-4920-8a71-d61ecd0e7afb",
+          "type": "MESSAGE_TYPE_AGENT",
+          "created_at": "1678835262909"
+        }
+      ],
+      "options": {
+        "adapt_tone": true,
+        "tone": ""
+      },
+      "message": {
+        "value": "undefined",
+        "id": "a62f4b7e-aae9-4f7a-a68a-771102cd70a4",
+        "type": "MESSAGE_TYPE_AGENT",
+        "created_at": "1678835263574"
+      }
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "project_id": "sau2020",
+      "region": "us-central1",
+      "function_name": "charge-api"
+    }
+  },
+  "timestamp": "2023-03-14T23:33:00.553009247Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:33:00.553009247Z"
+}

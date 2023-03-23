@@ -1,0 +1,54 @@
+{
+  "insertId": "1k1qoief8g0beq",
+  "jsonPayload": {
+    "message": "Request Received",
+    "httpRequest": {
+      "context": {
+        "order": {
+          "interaction_type": "curbside",
+          "max_eta_unix": 1678840800,
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "order_category": 2,
+          "deliver_eta_unix": 1678838700,
+          "quoted_eta_unix": 1678838700,
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "pickup_eta_unix": 1678837097,
+          "restaurant": {
+            "is_phone_number_available": true,
+            "is_orderable": true,
+            "title": "skt's Royal Tearoom",
+            "is_address_available": true
+          },
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "order_status_info": {
+            "order_accepted_unix_ms": 1678836496986,
+            "order_offered_unix_ms": 1678836496986
+          },
+          "quoted_lab_unix": 1678840800,
+          "order_time": 1678836496,
+          "fulfillment_type": 2,
+          "order_status": 3
+        }
+      },
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "prediction_type": 1
+    }
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "function_name": "charge-api",
+      "project_id": "sau2020",
+      "region": "us-central1"
+    }
+  },
+  "timestamp": "2023-03-14T23:28:37.150107861Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:28:37.150107861Z"
+}

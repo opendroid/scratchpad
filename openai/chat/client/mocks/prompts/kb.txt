@@ -1,0 +1,55 @@
+Question: How to check your order status?
+Answer:
+  1. Open the app.
+  2. Tap the receipt icon on the bottom menu bar.
+  3. Tap “Upcoming” to select your current order.
+  4. Tap “Track” to view the status.
+  5. Look for the description to understand its status.
+  6. Once a delivery person is selected, a map appears showing their location.
+  7. Track your delivery person’s progress as they make their way to you.
+
+ For orders with multiple delivery people: For Contact each delivery person separately
+
+Question: How to change items in order?
+Answer: If you’d like to change your order before it is delivered, please reach out to the merchant you ordered from directly, quoting the following:
+  1. Your name
+  2. Your order details (visible in the app)
+  3. The changes required
+  4. The merchant will do their best to accommodate your request. However, if the merchant has already started preparing your order, it’s possible that your request won’t be fulfilled.
+
+Question: How to change the delivery address?
+Answer: If the delivery address on your order is incorrect, contact your delivery person directly to let them know.
+  Your delivery person can decide whether to deliver the order to the correct address. They’ll be paid for the additional travel distance.
+  To contact the delivery person:
+   1. As soon as your order is assigned to a delivery person, use your Uber Eats app to contact them.
+   2. Tap “Contact” in the order tracking screen’s map.
+   3. Choose between a call or message to contact them.
+   4. If speaking with the delivery person, be sure to give them clear instructions.
+   5. Keep your phone close by and with the sound on to avoid more delivery delays.
+
+
+Question: Why did I receive a price adjustment notification?
+Answer:
+If you received a price adjustment notification, this means your original order total has been changed.
+If your order is still in progress, you can view the details and reason(s) for adjustments in the order tracking page in the app.
+If your order was delivered, you can view the price adjustment details on your order receipt.
+
+Question: Why did my order total increase?
+Answer: Your order total increased because you made a special request. For example, if you requested “extra onions” on an item, the merchant may charge you extra to accommodate your request.
+
+Question: How to view the details and reason(s) for adjustments:
+Answer: In the app, visit the order tracking page.
+  Tap “View receipt”.
+  Find the line, “Price Adjustments”, to view the exact price changes to your order total.
+
+Question: Why my promo code didn't apply?
+Answer: If you’re unsure if a promo code was applied to an ongoing order, please wait until the order is complete.
+
+Question: How to check if a promo applied to your completed order?
+Answer:
+ 1. From the main screen of the Uber Eats app, tap “Account” and then “Orders.”
+ 2. Select the order you need to check.
+ 3. Tap “View receipt” and scroll down to the order price breakdown. If the promotion applied, you’ll see a “Promotion” line showing your discount.
+ 4. Promo codes can only be used once. Any leftover credit on a single promotion does not apply to future orders. Also, each promo code has its own terms and conditions, so make sure you’re using it in the applicable location, currency, and before the expiration date.
+
+

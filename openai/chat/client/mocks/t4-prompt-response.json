@@ -1,0 +1,172 @@
+{
+  "insertId": "1sxqxybflmfvpx",
+  "jsonPayload": {
+    "response": {
+      "responses": [
+        "It looks like your order is still on track to be delivered by 05:05PM. If the delivery person is driving in the wrong direction, please contact them directly."
+      ]
+    },
+    "httpRequest": {
+      "prediction_type": 1,
+      "context": {
+        "order": {
+          "order_category": 2,
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "quoted_lab_unix": 1678840800,
+          "order_status_info": {
+            "order_offered_unix_ms": 1678836496986,
+            "order_accepted_unix_ms": 1678836496986
+          },
+          "pickup_eta_unix": 1678837096,
+          "interaction_type": "curbside",
+          "order_time": 1678836496,
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "quoted_eta_unix": 1678838700,
+          "deliver_eta_unix": 1678838700,
+          "restaurant": {
+            "is_address_available": true,
+            "is_orderable": true,
+            "is_phone_number_available": true,
+            "title": "skt's Royal Tearoom"
+          },
+          "fulfillment_type": 2,
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "order_status": 3,
+          "max_eta_unix": 1678840800
+        }
+      },
+      "message": {
+        "value": "The food driver is driving in wrong direction",
+        "id": "2b375cf1-5dee-4a3b-bd4c-4cb61c9d1b7c",
+        "created_at": "1678836665495",
+        "type": 2
+      },
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "previous_messages": [
+        {
+          "type": 3,
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "created_at": "1678836520244",
+          "id": "9f2a820e-a0cb-4ecc-9a40-022e65bdb03a"
+        },
+        {
+          "type": 2,
+          "value": "Where is my order",
+          "created_at": "1678836558069",
+          "id": "151d8836-8db2-42e1-b6a3-a1be48c7dd15"
+        },
+        {
+          "created_at": "1678836563779",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "type": 3,
+          "id": "a6d5831c-3c5b-4b0d-93bb-251bbbfe0309"
+        },
+        {
+          "id": "2cc2da13-ccf7-409f-9d7f-d0a96a867390",
+          "type": 2,
+          "value": "Will I be updated when it’s on the way",
+          "created_at": "1678836614692"
+        },
+        {
+          "id": "6572c01d-354a-4e3e-b603-dca1638d4e55",
+          "value": "Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.",
+          "created_at": "1678836619713",
+          "type": 3
+        }
+      ]
+    },
+    "request": {
+      "previous_messages": [
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "id": "9f2a820e-a0cb-4ecc-9a40-022e65bdb03a",
+          "created_at": "1678836520244"
+        },
+        {
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "id": "151d8836-8db2-42e1-b6a3-a1be48c7dd15",
+          "created_at": "1678836558069",
+          "value": "Where is my order"
+        },
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "value": "Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM. Please keep an eye on your app for updates. 📱",
+          "id": "a6d5831c-3c5b-4b0d-93bb-251bbbfe0309",
+          "created_at": "1678836563779"
+        },
+        {
+          "id": "2cc2da13-ccf7-409f-9d7f-d0a96a867390",
+          "type": "MESSAGE_TYPE_CUSTOMER",
+          "value": "Will I be updated when it’s on the way",
+          "created_at": "1678836614692"
+        },
+        {
+          "type": "MESSAGE_TYPE_BOT",
+          "created_at": "1678836619713",
+          "value": "Yes, you will receive updates via app notifications. Your order from skt's Royal Tearoom is being prepared and is on track to be delivered by 05:05PM.",
+          "id": "6572c01d-354a-4e3e-b603-dca1638d4e55"
+        }
+      ],
+      "context": {
+        "order": {
+          "deliver_eta_unix": "1678838700",
+          "interaction_type": "curbside",
+          "order_status_info": {
+            "order_accepted_unix_ms": "1678836496986",
+            "order_offered_unix_ms": "1678836496986"
+          },
+          "order_id": "d842c580-6f79-4e2a-8c5e-a97d9f7f3c98",
+          "pickup_eta_unix": "1678837096",
+          "restaurant": {
+            "is_address_available": true,
+            "is_orderable": true,
+            "title": "skt's Royal Tearoom",
+            "is_phone_number_available": true
+          },
+          "quoted_lab_unix": "1678840800",
+          "quoted_eta_unix": "1678838700",
+          "fulfillment_type": "FULFILLMENT_TYPE_DELIVERY",
+          "courier_info": {
+            "been_to_pickup_location": "false"
+          },
+          "max_eta_unix": "1678840800",
+          "order_category": "ORDER_CATEGORY_DEFAULT",
+          "order_time": "1678836496",
+          "items": [
+            {
+              "title": "Chai Tea"
+            }
+          ],
+          "order_status": "EATS_ORDER_STATUS_PREPARING"
+        }
+      },
+      "message": {
+        "created_at": "1678836665495",
+        "value": "The food driver is driving in wrong direction",
+        "type": "MESSAGE_TYPE_CUSTOMER",
+        "id": "2b375cf1-5dee-4a3b-bd4c-4cb61c9d1b7c"
+      },
+      "session_id": "d60def24-94e4-3829-8774-0c6b1c53d289",
+      "prediction_type": "PREDICTION_TYPE_SUGGEST_RESPONSE"
+    },
+    "message": "Response Sent"
+  },
+  "resource": {
+    "type": "cloud_function",
+    "labels": {
+      "region": "us-central1",
+      "function_name": "charge-api",
+      "project_id": "sau2020"
+    }
+  },
+  "timestamp": "2023-03-14T23:31:10.592209733Z",
+  "logName": "projects/sau2020/logs/api-log",
+  "receiveTimestamp": "2023-03-14T23:31:10.592209733Z"
+}
