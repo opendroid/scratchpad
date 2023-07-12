@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cf"
+	"github.com/opendroid/scratchpad/gcp-cloud-funcs/go-invoke/cf"
 )
 
 // Test a GCP cloud function call
@@ -15,5 +15,6 @@ var (
 )
 
 func main() {
-
+	// Keep compiler happy
+	_ = cf.AuthToken
 }

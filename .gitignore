@@ -16,6 +16,7 @@
 *.html
 data/
 node_modules/
+out/
 
 # keys
 key*.json

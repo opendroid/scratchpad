@@ -21,7 +21,7 @@ const (
 	Curie ModelType = "text-curie-001"
 	// Babbage is capable of straightforward tasks, very fast, and lower cost.
 	Babbage ModelType = "text-babbage-001"
-	// Ada is c apable of very simple tasks, usually the fastest model in the GPT-3 series, and lowest cost.
+	// Ada is capable of very simple tasks, usually the fastest model in the GPT-3 series, and lowest cost.
 	Ada ModelType = "text-ada-001"
 )
 
@@ -44,6 +44,7 @@ var (
 		Description:      davinviDescription,
 		TrainingDataDate: "2021-07-01",
 	}
+	_ = DavinciModel
 
 	//go:embed text/curie.txt
 	curieDescription string
@@ -55,6 +56,7 @@ var (
 		Description:      curieDescription,
 		TrainingDataDate: "2019-11-01",
 	}
+	_ = CurieModel
 
 	//go:embed text/babbage.txt
 	babbageDescription string
@@ -66,6 +68,7 @@ var (
 		Description:      babbageDescription,
 		TrainingDataDate: "2019-11-01",
 	}
+	_ = BabbageModel
 
 	//go:embed text/ada.txt
 	adaDescription string
@@ -77,6 +80,10 @@ var (
 		Description:      adaDescription,
 		TrainingDataDate: "2019-11-01",
 	}
+
+	// ModelsDisplayTemplate path to template, values are
+	// /workspaces/scratchpad/openai/chat/client/text/models.tmpl
+	ModelsDisplayTemplate = "/Users/ajayt/gocode/src/github.com/opendroid/scratchpad/openai/chat/client/text/models.tmpl"
 )
 
 // Permission is the permission to use for completion.
@@ -88,7 +95,6 @@ type Permission struct {
 	AllowSampling      bool   `json:"allow_sampling,omitempty"`
 	AllowLogprobs      bool   `json:"allow_logprobs,omitempty"`
 	AllowSearchIndices bool   `json:"allow_search_indices,omitempty"`
-	AllowView          bool   `json:"allow_view,omitempty"`
 	AllowFineTuning    bool   `json:"allow_fine_tuning,omitempty"`
 	Organization       string `json:"organization,omitempty"`
 	Groups             string `json:"groups,omitempty"`
@@ -114,9 +120,8 @@ type Models struct {
 //go:embed text/models.json
 var data string
 
-// ModelFunc is a function.
-func ModelFunc() {
-	fmt.Println("Models fun")
+// ListModels in OpenAI
+func ListModels() {
 
 	var GPTReturnedModels Models
 	if err := json.Unmarshal([]byte(data), &GPTReturnedModels); err != nil {
@@ -124,7 +129,7 @@ func ModelFunc() {
 		return
 	}
 
-	tmpl := template.Must(template.ParseFiles("/workspaces/scratchpad/openai/chat/client/text/models.tmpl"))
+	tmpl := template.Must(template.ParseFiles(ModelsDisplayTemplate))
 	if err := tmpl.Execute(os.Stdout, GPTReturnedModels.Model); err != nil {
 		fmt.Printf("ModelFunc: error: %s", err.Error())
 		return

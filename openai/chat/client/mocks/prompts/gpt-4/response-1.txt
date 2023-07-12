@@ -1,0 +1,6 @@
+[
+  {
+    "role":"assistant",
+    "content":"Understood. I will follow these rules to answer the customer's questions and provide the final answer without the thinking process."
+  }
+]
