@@ -117,6 +117,14 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
       </Point>
     </Placemark>
     <Placemark>
+      <name>07-12-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:02 PM PST</description>
+      <Point>
+        <coordinates>-34.719244310746824,42.29774076350066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
       <description>California</description>
@@ -134,4 +142,4 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     </Placemark>
   </Document>
 </kml>`;
-fs.writeFileSync('porsche-2.kml', kml);
+fs.writeFileSync('porsche-3.kml', kml);

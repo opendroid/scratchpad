@@ -572,6 +572,14 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>07-12-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:02 PM PST</description>
+      <Point>
+        <coordinates>-34.719244310746824,42.29774076350066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
       <description>California</description>
