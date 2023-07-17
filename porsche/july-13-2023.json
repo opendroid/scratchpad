@@ -1,0 +1,4009 @@
+{
+  "commissionNumber": "H09185",
+  "externalVehicleId": "USMH09185",
+  "vin": "WP0CA2A89RS205022",
+  "modelId": "982",
+  "modelName": "718 Boxster Style Edition",
+  "modelTeaser": "On its way: Your  718 Boxster Style Edition",
+  "isDelivered": false,
+  "notificationsActive": true,
+  "dealerNumber": "0004500150",
+  "vehicleStatusImporter": "V300",
+  "currentLocation": {
+    "type": "path_vessel",
+    "ident": "PortEmden_PortBenicia",
+    "position": {
+      "ident": "IMO_9925370",
+      "lat": "40.0715996182428",
+      "lng": "-39.526273810242884"
+    },
+    "start": {
+      "ident": "PortEmden",
+      "lat": "53.3367",
+      "lng": "7.17603"
+    },
+    "end": {
+      "ident": "PortBenicia",
+      "lat": "38.041906",
+      "lng": "-122.135274"
+    },
+    "latestReportedEvent": "exitPortGermany"
+  },
+  "milestones": [
+    {
+      "headline": "Your purchase order has been confirmed",
+      "description": "Congratulations! You've just ordered your dream Porsche. We are honored to be a part of that dream, and help to make it a reality. The first vehicle to bear the Porsche name was registered on June 8, 1948: It was the 356 “No.1” Roadster. This is the day on which the Porsche brand was born. The Type 356 turned Ferry Porsche´s dream of a sports car into a reality. Placing your Porsche order is where it all begins, and we aim to keep you informed during every step of the process. Track Your Dream is designed to maximize communication and reduce confusion during the construction of your Porsche. Until your Porsche is delivered, we would like to invite you to follow your dream car's journey. This will include behind-the-scenes insights of our research and design facilities in Weissach, our production plants in Stuttgart-Zuffenhausen, as well as the transportation steps from the factory to your Porsche dealership.\nFor now, know that you've become part of a deep heritage of passionate drivers - past, present, and future - who express themselves best from behind the wheel of legendary high-performance sports cars. With this step, our journey together has begun. We can't wait to see where you go - and to help you get there. ",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/59Z1WfgdVx9IKCvVr8LN4j/6890cce02d5a57207065cfbbc4677bf5/S20_0900_fine.jpg",
+          "eventPartDescription": "Interested in adding some extra features to your configuration?\nUntil your vehicle has reached the change freeze point, you still have the opportunity to make changes to the configuration of your vehicle. If interested, please contact your Porsche dealer. We will inform you as soon as your car has reached this freeze point."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/01hDaYXyNttRa48AfuirYa/2826c3abd945301c1498f2ab029a7e7c/Slide1_Heritage.jpg",
+          "eventPartDescription": "The legend of the 718 began back in 1953 with a simple but audacious plan: to take the offensive. Not least on the race track. A rousing statement of intent followed by action: with a four-cylinder horizontally opposed engine, consistent lightweight construction and cornering performance never witnessed before. The 550 Spyder. A sportscar that defied the motorsport standards of its time. So, in 1953, the first ever Porsche designed specifically for motor racing made its debut on starting grids around the world. And, in doing so, it paved the way for a series of thoroughbred mid-engined race cars: from 1957, it was followed by the 718 RSK Spyder - a fundamentally revised version of the 550 A Spyder; the 718 RS 60 Spyder; the 718 W-RS Spyder; and, ultimately, the 718 GTR - the Coupé gracing the Spyder line-up. By the mid-60s, they would go on to claim over 1,000 racing victories. At numerous hill-climbing events. And, naturally, at the Mecca of racing: Le Mans. It was a winning streak that elevated Porsche from underdog to giant killer, and fan favorite. "
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/WsuiqM3621rWFyo0lhyfT/c7b3a91f63a46c691d4ddcf02c540c71/E3_Exclusive.jpg",
+          "eventPartDescription": "Our wealth of experience goes back a long way. Since the very beginning, we at Porsche have been dedicated to realizing customer wishes. Porsche Exclusive Manufaktur transfers its experience and passion together with your inspiration to the car. We turn your dreams into reality with composure and meticulous care, by means of precision handcrafting and the use of exquisite materials such as leather, carbon, fine wood and aluminum. Added value is achieved through dedication and finesse. We offer a wide range of personalization options. Visually and technically. For the interior and exterior. From a single alteration to extensive modifications. Your inspiration is our passion. To put it another way: a Porsche with your signature touch."
+        }
+      ],
+      "position": 1,
+      "title": "orderCreation",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-03-30T00:00:00Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "You have reached the Change Freeze Point",
+      "description": "Your Change Freeze Point is the last guaranteed date to make any changes to your Porsche before the configuration is frozen for production. After this date, your unique vision will be set in stone and prepared for creation. This date may change due to scheduling shifts within the production system.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/1hxDe6nrbI41XFhZPIPCHd/e1b9af767717063a601a8215eee18e0c/911_-_M2_-_VM21_3947.jpg"
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/7vYA1EuCWN7MKyCtQ8B5rb/6f3c8061102e948599ae2c4bf558a2bd/TYD_-_MS02_-_718_-_Screenshot_Roundabout.jpg",
+          "videoLink": "https://player.vimeo.com/video/741774435"
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/MTtUqzKhVVMoVatJRy8nT/01d9ed18d1206268e2ddf508c57c6dff/TYD_-_MS02_-_718_-_Screenshot_Cutdown.jpg",
+          "videoLink": "https://player.vimeo.com/video/741774481"
+        }
+      ],
+      "position": 2,
+      "title": "changeFreezePoint",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-05-23T00:00:00Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "The manufacturing process of your Porsche is starting soon",
+      "description": "We are thrilled to inform you that your 718 has an officially scheduled production date.\nYour personalized Porsche 718 will be assembled utilizing the just-in-sequence method to maximize flexibility, quality and overall efficiency on the production line. This tried and tested concept relies on minimal stock replenishment. At present, approximately 560 series production suppliers deliver components to the main plant in Zuffenhausen, requiring perfectly tuned cooperation for the assembly cycle.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/4O2VlEGQppQtEx2VX2uvu3/3d9422ea64a4976effd2c539f843b205/Rangeview-992.jpg"
+        }
+      ],
+      "position": 3,
+      "title": "scheduledForProduction",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-06-07T05:35:46Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "The manufacturing process of your Porsche has now started",
+      "description": "We are thrilled to inform you that the production of your Porsche has now started.\nThe Porsche sports car models 718, 911 and the all-electric Taycan are produced in our main plant in Zuffenhausen. All 718 and 911 derivatives – from series production vehicles for the road right down to pure race cars – are being produced on the same production line, whereas the Taycan has its own highly advanced facilities in Zuffenhausen. The Panamera and Macan models are produced in our factory in Leipzig.\nYour Porsche will be assembled utilizing the just-in-sequence method to maximize flexibility, quality and overall efficiency on the production line. This tried and tested concept relies on minimal stock replenishment. Our sophisticated logistics and production systems ensure that your Porsche is built exactly according to your specifications. Due the fact that this will take a little time, we would like to offer you an insight into the development process in our research and design facilities in Weissach.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/7wF7FQCGS6uWiWcZL4jzAh/39dd04203902dabf4151ccb52afebb15/S14_0484_fine.jpg",
+          "eventPartDescription": "The Porsche R&D Center has been located in Weissach since 1971. Around 6,500 employees work here. Design offices, test stands, workshops and our motorsport department are all close together. The result is a tightly linked and coordinated development process, from the first sketch to the finished vehicle."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/2jyMCmIvQow3DkbOsVboIB/b386f120a79b18e291bb7a2221564d1e/Weissach_Neu.jpg",
+          "eventPartDescription": "Since the opening of the Weissach Development Center in 1962, constant enhancement has continued on the site. For example, in 1981, the factory halls were expanded to a more useful area of 43,000 square feet. Towards the end of the 1980s, the significance of Weissach in the Porsche world was underlined when an in-house crash test center was installed and the test site for engines and assemblies was expanded. It was only in 2014 that Porsche completed the largest development projects so far in the history of the Development Center. At a cost of over 165 million dollars, the company expanded the Weissach site and added three new buildings - a design studio, a wind tunnel, and an Electronics Integration Center. Design offices, test stands, workshops and our motorsport department are all close together. The result is a tightly linked and coordinated development process, from the first sketch to the finished vehicle."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/2m6I7wibwXsyUg7VAXFnkq/c5094081afe13e6ed6dfe08c9aead4ed/992Milestone2_4c.jpg",
+          "eventPartDescription": "Developments in electronics are evolving at a rapid pace. Today, for instance, there are some 6,000 functions in a Porsche supporting the driver. To develop these functions more efficiently and manage them along the entire supply chain, Porsche experts are now collaborating even more closely in the new Electronics Integration Center (EIC). The individual steps of the process include the following: specification and implementation of sub-functions, testing and qualifying under racetrack conditions – a task involving all areas – and work on the individual components in the workshops."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/7wJJDh2ZspzYXEX57gE4vH/108c68fb3c095e6105838c83abd9e70f/Windkanal_small.jpg",
+          "eventPartDescription": "The high-tech wind tunnel sets new standards in airflow quality by producing air that is both uniform and low in turbulence and noise. Measuring eight meters in diameter, the fan has extremely lightweight carbon vanes and can generate wind speeds of up to 300 km/h (186 mph) in the measurement area around the test vehicle.\nWhile aerodynamic measurements are being taken, the floor beneath the test object and its surroundings are also moved at the wind's speed.\nHighly sensitive acoustic instrumentation around the test object localizes any sound sources three-dimensionally. The wind tunnel has a closed air circuit and is impressively efficient. When the fan is slowed after a measurement, much of the brake energy is fed back into the power grid."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/335drzYf0X7UXvVcAnUB6n/db549a2724e5bec49ed0faa214a46802/718-02-01.jpg",
+          "eventPartDescription": "When a new model is being developed, the sound experts know what it will sound like even before the prototypes hit the track. And, of course, there are always improvements to be made to comply with ever-stricter noise regulations being implemented in countries around the world. This applies for both purely electric and a conventionally powered sports car. The optional Porsche Electric Sport Sound makes the vehicle's own drive sound even more emotionally charged and richer with its innovative character both on the outside and inside. For this purpose, disturbing noises from the drive architecture are deliberately minimized and harmonious, emotive sounds matching what the car is doing are amplified. These are composed in such a way that a sound experience typical of Porsche is created: with a clear electrical statement but unquestionably the sound of a genuine Porsche. Designing this sound is the passion of the Weissach acoustics engineers."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/Bs8t5iFDZTBfPYxh7bQeW/49b7c60b503c3863fa74b01820f6365e/Engine.jpg",
+          "eventPartDescription": "Porsche has always been at the forefront of trend and technologies in engine development. To efficiently test the different types of engines, Porsche has a multitude of different benchmarks. Continuous investment ensures that all Porsche locations always have a state-of-the-art technology to meet the demands of increasing product complexity and changing legal frameworks. The 718 models are extremely agile. Thanks to the vehicle’s characteristically low and central centre of gravity that has always distinguished the Porsche mid-mounted engine models. The typical throaty Porsche sound is also an intrinsic feature of the 718 models, providing the fitting soundtrack on the way to ever new performance heights."
+        }
+      ],
+      "position": 4,
+      "title": "startOfProduction",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-06-19T18:26:27Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "The manufacturing process is complete ",
+      "description": "Dreams do come true. We have built your 718, with the utmost care and many hours of skilled labor. In Stuttgart-Zuffenhausen, all parts were assembled to produce a unique car of the highest quality. Zuffenhausen is more than just a production site – it’s where the heart of Porsche beats. Now, take a look at the Porsche manufacturing plant and explore some of the manufacturing stages your 718 has passed through in the last few days.\"",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/1tbUh2Rp09gHzZqDfXiVyw/9e29e109d4f57907368b1685d3e03493/Werk_Zuffenhausen2.jpg",
+          "videoLink": "https://player.vimeo.com/video/655336574"
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/8AO90moyEqoDGsNOfOkCa/3f6f18072e7a0e5932bf21a374a72576/Slide1.jpg",
+          "eventPartDescription": "The beginning – a Porsche acquires its unmistakable shape in the body construction facility. Ultra-precision industrial robots and state-of-the-art joining techniques ensure that hundreds of individual aluminum and steel parts are merged into a distinctive exterior.\n\nDespite the high degree of automation, the skill of our employees is the key to our success. All staff working in quality control, system operation, and maintenance are highly qualified. This is the only way for us to ensure and continuously extend our high standard of quality.\nIn body construction, we have already achieved the optimal interaction of human experience and the latest technology. "
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/2ay3UPXJ0hlTV09SoqeIgm/9cd01c6b56c2e4765d868171d375d252/Paint_yellow1.jpg",
+          "eventPartDescription": "Our paint shop in Zuffenhausen is one of the world's most modern and environmentally friendly of its kind. In a multi-stage process here, the bodies receive their flawless coat of paint, consisting of corrosion protection, coloration, and surface sealant. This occurs in the precisely timed cycle of the entire sports car production process. At the end of the painting process, four coats of paint form a layer around 0.13 millimeters thick – barely thicker than a human hair. Next to the range of standard colors that are similar to manufacturing, a special color system enables us to offer many custom colors. The individuality of each Porsche sports car can also be expressed by an individual color. "
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/2ICwhiTFzcb0dILyOrNcNz/186eb133a74956e7a56d925a1877b1d9/Saddlery_New.jpg",
+          "eventPartDescription": "A high-quality interior is a key feature of every Porsche, so we indulge in a luxury that many other car manufacturers abandoned long ago: our own saddlery here in Zuffenhausen - where the intrinsic values of all Porsche sports cars are created.\nThe interior finish is based on genuine craftsmanship. Sewing is done completely by hand, machine supported of course, as well as the covering with leather parts. Every working step requires highest care and qualification of the workers.\nThe sewers and saddlers produce the interior trim and upholstery in the same order as the vehicles roll off the final assembly line. Every single interior is crafted according to the customer’s wishes. "
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/1n77DlnKHKRcsr7JORZ3cK/1b3eea26ab6e5fad3c27e16cb7818461/Slide3.jpg",
+          "eventPartDescription": "Here also, manufacturing is based on model-mix production: all vehicles are build in the exact order, in which our customers have ordered them. Teamwork is crucial in this process. This applies to the complex logistics as well as the exact picking of the average 250 components required per engine and 150 components required per chassis. To guarantee maximum precision and quality, the optimal interaction of our employees is vital. Every screw and part must be manufactured to accuracy within a millimeter, and then made available at the right place and time."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/OFCDR9sMiahQtqejgfd60/60f9e180965b19d8b709f4b91ae01259/Paint_green2.jpg",
+          "eventPartDescription": "Assembly begins by joining the body and the cockpit. The best seat in a Porsche is already identifiable – the one behind the steering wheel. Then the headliner and windows are installed. Very carefully. With pinpoint precision. At this point, the engine is already travelling on the conveyer belt through the plant. In a parallel work step, it is connected to the chassis with the transmission, the drive shafts and axles, and the exhaust system. These simultaneous processes are timed to the second, as in the pit lane. Then comes the all-important moment – the marriage, where the engine is combined with the body and the chassis. Under highest fitting accuracy the drive train is screwed together with all the different driving gears and axles. Further assembly steps follow, such as fitting windows and wheels. After leaving the test field, the brand new Porsche is finally ready for its destiny. For its driver. For the road. For the racetrack. In essence, for conquering uncharted territory at the limits of sporty performance."
+        }
+      ],
+      "position": 5,
+      "title": "endOfProduction",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-06-26T01:11:53Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "Your Porsche is on its way to the German port",
+      "description": "Your custom vehicle has earned our highest standards and is ready for transport, thus beginning its journey to its rightful owner - you. From the Porsche factory in Zuffenhausen, your vehicle is being transported to your Porsche dealer, where the keys to your Porsche will be handed over to you.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/7LkAFoQcpv6P5QCWKMQ0J4/a810e50572fa7a02a1e80d2db9a34cd2/718-Range.jpg"
+        }
+      ],
+      "position": 6,
+      "title": "releasedForTransport",
+      "location": {
+        "ident": "PlantZuffenhausen",
+        "lat": "48.835012",
+        "lng": "9.152131"
+      },
+      "date": "2023-06-26T12:00:00Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "Your Porsche has arrived at the German port",
+      "description": "In this section, you can learn about the transport routes and gain some logistics insights. You can also explore some routes, and prepare for the time you’ll soon spend in your 718.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/697AYNIvuReqJ9O46VpVO/7e85f22b1615945a3e9e2bee1f643151/J1-Range.jpg"
+        }
+      ],
+      "position": 7,
+      "title": "entryPortGermany",
+      "location": {
+        "ident": "PortEmden",
+        "lat": "53.3367",
+        "lng": "7.17603"
+      },
+      "date": "2023-06-28T12:00:00Z",
+      "dateType": "I"
+    },
+    {
+      "headline": "Your vehicle has left the German port",
+      "description": "Your Porsche has left the port of shipment and is on the way to the destination port. Your dream Porsche is now one step closer.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/7y8m9edMcmxxohTVxfQPCf/3adc09d14d7c3ea62c5d8beb63287c0f/718_-_M7_-_VM18_3988_-_neu.jpg"
+        }
+      ],
+      "position": 8,
+      "title": "exitPortGermany",
+      "location": {
+        "ident": "PortEmden",
+        "lat": "53.3367",
+        "lng": "7.17603"
+      },
+      "date": "2023-07-06T12:00:00Z",
+      "dateType": "C",
+      "transportRoute": {
+        "departureName": "Emden",
+        "destinationName": "Benicia",
+        "coordinates": [
+          {
+            "lat": 53.3367,
+            "lng": 7.17603
+          },
+          {
+            "lat": 53.332902602491274,
+            "lng": 7.1761899623589
+          },
+          {
+            "lat": 53.33101890259328,
+            "lng": 7.1615747404777235
+          },
+          {
+            "lat": 53.329783101136435,
+            "lng": 7.13223765514277
+          },
+          {
+            "lat": 53.32822458708635,
+            "lng": 7.092580457508405
+          },
+          {
+            "lat": 53.32634336044304,
+            "lng": 7.042603147574629
+          },
+          {
+            "lat": 53.36173845319305,
+            "lng": 6.975211438342622
+          },
+          {
+            "lat": 53.434409865336384,
+            "lng": 6.890405329812384
+          },
+          {
+            "lat": 53.471027091235975,
+            "lng": 6.847627468319422
+          },
+          {
+            "lat": 53.47159013089181,
+            "lng": 6.846877853863735
+          },
+          {
+            "lat": 53.47927021119647,
+            "lng": 6.834922883316803
+          },
+          {
+            "lat": 53.494067332149946,
+            "lng": 6.811762556678626
+          },
+          {
+            "lat": 53.52831779510014,
+            "lng": 6.74566191868055
+          },
+          {
+            "lat": 53.58202160004706,
+            "lng": 6.636620969322576
+          },
+          {
+            "lat": 53.62043668374883,
+            "lng": 6.408103636131931
+          },
+          {
+            "lat": 53.655126227433755,
+            "lng": 5.886113060596958
+          },
+          {
+            "lat": 53.71609833042169,
+            "lng": 5.745338294790287
+          },
+          {
+            "lat": 53.60279613110987,
+            "lng": 5.16456660130936
+          },
+          {
+            "lat": 53.5866,
+            "lng": 5.062
+          },
+          {
+            "lat": 53.506348686442195,
+            "lng": 4.762633320043597
+          },
+          {
+            "lat": 53.49778687729061,
+            "lng": 4.723610507415229
+          },
+          {
+            "lat": 53.468567296109505,
+            "lng": 4.5778428384196195
+          },
+          {
+            "lat": 53.2914,
+            "lng": 4.4903
+          },
+          {
+            "lat": 53.164996733659564,
+            "lng": 4.389631908616309
+          },
+          {
+            "lat": 53.0644,
+            "lng": 4.1948
+          },
+          {
+            "lat": 53.0441756934827,
+            "lng": 4.154515365780758
+          },
+          {
+            "lat": 52.96643871629764,
+            "lng": 4.0069473101258115
+          },
+          {
+            "lat": 52.93173263968305,
+            "lng": 3.931807705428554
+          },
+          {
+            "lat": 52.80484567129635,
+            "lng": 3.7625264047738316
+          },
+          {
+            "lat": 52.7106150223054,
+            "lng": 3.6282043158329995
+          },
+          {
+            "lat": 52.61076519799626,
+            "lng": 3.498922635098507
+          },
+          {
+            "lat": 52.5272634018697,
+            "lng": 3.3847745894362316
+          },
+          {
+            "lat": 52.41817047624813,
+            "lng": 3.2506912394879834
+          },
+          {
+            "lat": 52.365597882941394,
+            "lng": 3.1889900252634518
+          },
+          {
+            "lat": 52.33318131340897,
+            "lng": 3.154976496779888
+          },
+          {
+            "lat": 52.30921347761394,
+            "lng": 3.1295432603806574
+          },
+          {
+            "lat": 52.2936943755563,
+            "lng": 3.1126903160657613
+          },
+          {
+            "lat": 52.26857611839561,
+            "lng": 3.085522882931235
+          },
+          {
+            "lat": 52.2165,
+            "lng": 3.0293
+          },
+          {
+            "lat": 52.1853,
+            "lng": 2.9766
+          },
+          {
+            "lat": 52.079881955675745,
+            "lng": 2.8303362401254164
+          },
+          {
+            "lat": 51.99638261868358,
+            "lng": 2.725515801032646
+          },
+          {
+            "lat": 51.89966264091544,
+            "lng": 2.613384096096828
+          },
+          {
+            "lat": 51.818526989023525,
+            "lng": 2.5069636827216892
+          },
+          {
+            "lat": 51.7202,
+            "lng": 2.3559
+          },
+          {
+            "lat": 51.67643700319323,
+            "lng": 2.287236550873678
+          },
+          {
+            "lat": 51.6472900353992,
+            "lng": 2.2448126547036984
+          },
+          {
+            "lat": 51.54436734605585,
+            "lng": 2.0935907222182086
+          },
+          {
+            "lat": 51.45941896320315,
+            "lng": 1.9780267760469896
+          },
+          {
+            "lat": 51.41534143963056,
+            "lng": 1.9185892097702297
+          },
+          {
+            "lat": 51.364,
+            "lng": 1.8822
+          },
+          {
+            "lat": 51.27489966226682,
+            "lng": 1.8053031775469794
+          },
+          {
+            "lat": 51.250645796497395,
+            "lng": 1.784355077357361
+          },
+          {
+            "lat": 51.230172562018794,
+            "lng": 1.7676238078781807
+          },
+          {
+            "lat": 51.134812509530214,
+            "lng": 1.6085056545973089
+          },
+          {
+            "lat": 51.11898573158882,
+            "lng": 1.5822320212191832
+          },
+          {
+            "lat": 51.071402812362955,
+            "lng": 1.5007330133776926
+          },
+          {
+            "lat": 51.02731967172262,
+            "lng": 1.4253703447074537
+          },
+          {
+            "lat": 50.956977209312264,
+            "lng": 1.3047572812352637
+          },
+          {
+            "lat": 50.930847111810344,
+            "lng": 1.2588446598351457
+          },
+          {
+            "lat": 50.81790217228113,
+            "lng": 1.0668351242204417
+          },
+          {
+            "lat": 50.78491180558049,
+            "lng": 0.9925496245053307
+          },
+          {
+            "lat": 50.7372,
+            "lng": 0.8872
+          },
+          {
+            "lat": 50.7058,
+            "lng": 0.8147
+          },
+          {
+            "lat": 50.690520111958975,
+            "lng": 0.775386576177464
+          },
+          {
+            "lat": 50.66014579376917,
+            "lng": 0.7082966413764142
+          },
+          {
+            "lat": 50.60093137240922,
+            "lng": 0.5789456057896679
+          },
+          {
+            "lat": 50.55721892674118,
+            "lng": 0.3203268490117581
+          },
+          {
+            "lat": 50.48929944282156,
+            "lng": -0.04679972432841869
+          },
+          {
+            "lat": 50.45470670820947,
+            "lng": -0.23820350727628617
+          },
+          {
+            "lat": 50.42238992693928,
+            "lng": -0.4239230381836786
+          },
+          {
+            "lat": 50.38081818747363,
+            "lng": -0.6677595780332185
+          },
+          {
+            "lat": 50.32771553647061,
+            "lng": -0.9753973788653809
+          },
+          {
+            "lat": 50.263081973930234,
+            "lng": -1.3468364406801658
+          },
+          {
+            "lat": 50.190590178238594,
+            "lng": -1.7637229964155123
+          },
+          {
+            "lat": 50.07006513497424,
+            "lng": -2.4572240708993744
+          },
+          {
+            "lat": 49.98587827629963,
+            "lng": -2.914373118005658
+          },
+          {
+            "lat": 49.875463444643565,
+            "lng": -3.188948612976714
+          },
+          {
+            "lat": 49.844500919687796,
+            "lng": -3.4853079430182357
+          },
+          {
+            "lat": 49.856185757546974,
+            "lng": -3.8949762731205744
+          },
+          {
+            "lat": 49.84938217716936,
+            "lng": -4.305609382499411
+          },
+          {
+            "lat": 49.82409017855496,
+            "lng": -4.717207271154745
+          },
+          {
+            "lat": 49.79879817994056,
+            "lng": -5.12880515981008
+          },
+          {
+            "lat": 49.773506181326155,
+            "lng": -5.540403048465413
+          },
+          {
+            "lat": 49.75662121117102,
+            "lng": -5.816053079249287
+          },
+          {
+            "lat": 49.748143269475136,
+            "lng": -5.955755252161701
+          },
+          {
+            "lat": 49.73982467102316,
+            "lng": -6.0901607809027585
+          },
+          {
+            "lat": 49.73166541581508,
+            "lng": -6.21926966547246
+          },
+          {
+            "lat": 49.725545858555265,
+            "lng": -6.361332662410193
+          },
+          {
+            "lat": 49.71942606958795,
+            "lng": -6.593858326368841
+          },
+          {
+            "lat": 49.717964176693144,
+            "lng": -6.727915777550218
+          },
+          {
+            "lat": 49.71638784314173,
+            "lng": -6.804931261061789
+          },
+          {
+            "lat": 49.71420977130212,
+            "lng": -6.869590593964013
+          },
+          {
+            "lat": 49.7082140643491,
+            "lng": -6.905066259969786
+          },
+          {
+            "lat": 49.698400722282656,
+            "lng": -6.911358259079108
+          },
+          {
+            "lat": 49.68858703963626,
+            "lng": -6.91764771823776
+          },
+          {
+            "lat": 49.67877301640992,
+            "lng": -6.92393463744574
+          },
+          {
+            "lat": 49.66895865311473,
+            "lng": -6.930219020338882
+          },
+          {
+            "lat": 49.6591439497507,
+            "lng": -6.936500866917186
+          },
+          {
+            "lat": 49.649328906827996,
+            "lng": -6.942780180810217
+          },
+          {
+            "lat": 49.639513524346626,
+            "lng": -6.949056962017977
+          },
+          {
+            "lat": 49.629697802815784,
+            "lng": -6.955331214163749
+          },
+          {
+            "lat": 49.619881742235485,
+            "lng": -6.961602937247534
+          },
+          {
+            "lat": 49.610065343114,
+            "lng": -6.967872134886335
+          },
+          {
+            "lat": 49.60024860545135,
+            "lng": -6.974138807080152
+          },
+          {
+            "lat": 49.59043152975483,
+            "lng": -6.980402957439793
+          },
+          {
+            "lat": 49.580614116024464,
+            "lng": -6.986664585965258
+          },
+          {
+            "lat": 49.57079636476663,
+            "lng": -6.992923696261101
+          },
+          {
+            "lat": 49.56097827598134,
+            "lng": -6.999180288327324
+          },
+          {
+            "lat": 49.55115985017404,
+            "lng": -7.005434365762227
+          },
+          {
+            "lat": 49.54134108734472,
+            "lng": -7.011685928565811
+          },
+          {
+            "lat": 49.53152198799792,
+            "lng": -7.0179349803302316
+          },
+          {
+            "lat": 49.521702552133625,
+            "lng": -7.024181521055489
+          },
+          {
+            "lat": 49.18981172276579,
+            "lng": -9.151122361155991
+          },
+          {
+            "lat": 48.5358494998944,
+            "lng": -13.398757500631739
+          },
+          {
+            "lat": 47.73430053789787,
+            "lng": -17.517862414686903
+          },
+          {
+            "lat": 46.785164836776204,
+            "lng": -21.508437103321484
+          },
+          {
+            "lat": 45.707289796440655,
+            "lng": -25.34815787845031
+          },
+          {
+            "lat": 44.50067541689121,
+            "lng": -29.037024740073377
+          },
+          {
+            "lat": 43.18516404217816,
+            "lng": -32.57006660877482
+          },
+          {
+            "lat": 41.760755672301485,
+            "lng": -35.947283484554646
+          },
+          {
+            "lat": 40.24627599634016,
+            "lng": -39.17604366291371
+          },
+          {
+            "lat": 38.641725014294195,
+            "lng": -42.256347143852025
+          },
+          {
+            "lat": 36.96384306146384,
+            "lng": -45.20268786953628
+          },
+          {
+            "lat": 35.21263013784912,
+            "lng": -48.01506583996647
+          },
+          {
+            "lat": 33.40240085464974,
+            "lng": -50.71108805318096
+          },
+          {
+            "lat": 31.53315521186571,
+            "lng": -53.29075450917975
+          },
+          {
+            "lat": 29.616878472893717,
+            "lng": -55.772237653994225
+          },
+          {
+            "lat": 27.653570637733754,
+            "lng": -58.155537487624386
+          },
+          {
+            "lat": 25.653189731549872,
+            "lng": -60.45803011228506
+          },
+          {
+            "lat": 23.61573575434206,
+            "lng": -62.67971552797624
+          },
+          {
+            "lat": 21.54950526252801,
+            "lng": -64.83660344082925
+          },
+          {
+            "lat": 19.454498256107716,
+            "lng": -66.92869385084408
+          },
+          {
+            "lat": 18.307497517381957,
+            "lng": -68.12785622987948
+          },
+          {
+            "lat": 18.108503046350734,
+            "lng": -68.43409057793545
+          },
+          {
+            "lat": 18.018504358126343,
+            "lng": -68.69633081397258
+          },
+          {
+            "lat": 18.03750145270878,
+            "lng": -68.91457693799086
+          },
+          {
+            "lat": 18.043137853660767,
+            "lng": -69.06327437829711
+          },
+          {
+            "lat": 18.035413560982295,
+            "lng": -69.14242313489133
+          },
+          {
+            "lat": 18.027657092074016,
+            "lng": -69.22156491613767
+          },
+          {
+            "lat": 18.01986844693593,
+            "lng": -69.30069972203613
+          },
+          {
+            "lat": 18.012047660972996,
+            "lng": -69.37982750248568
+          },
+          {
+            "lat": 18.004194734185226,
+            "lng": -69.45894825748633
+          },
+          {
+            "lat": 17.996309702247487,
+            "lng": -69.53806193718758
+          },
+          {
+            "lat": 17.98839256515978,
+            "lng": -69.61716854158944
+          },
+          {
+            "lat": 17.98044335886606,
+            "lng": -69.69626802109354
+          },
+          {
+            "lat": 17.97246208336633,
+            "lng": -69.7753603756999
+          },
+          {
+            "lat": 17.96444877487275,
+            "lng": -69.85444555606372
+          },
+          {
+            "lat": 17.95640343338533,
+            "lng": -69.933523562185
+          },
+          {
+            "lat": 17.948326095383596,
+            "lng": -70.01259434497408
+          },
+          {
+            "lat": 17.940216760867557,
+            "lng": -70.09165790443095
+          },
+          {
+            "lat": 17.932075466583264,
+            "lng": -70.1707141917226
+          },
+          {
+            "lat": 17.92390221253072,
+            "lng": -70.24976320684902
+          },
+          {
+            "lat": 17.915697035721628,
+            "lng": -70.32880490123532
+          },
+          {
+            "lat": 17.907459936155995,
+            "lng": -70.40783927488147
+          },
+          {
+            "lat": 17.899190951110302,
+            "lng": -70.48686627947207
+          },
+          {
+            "lat": 17.89089008058456,
+            "lng": -70.56588591500712
+          },
+          {
+            "lat": 17.834854733991264,
+            "lng": -70.72064679958098
+          },
+          {
+            "lat": 17.731084911330424,
+            "lng": -70.95114893319366
+          },
+          {
+            "lat": 17.6074448117335,
+            "lng": -71.1839827452928
+          },
+          {
+            "lat": 17.4639344352005,
+            "lng": -71.41914823587837
+          },
+          {
+            "lat": 17.2732594352005,
+            "lng": -71.74294823587837
+          },
+          {
+            "lat": 17.035419811733497,
+            "lng": -72.15538274529278
+          },
+          {
+            "lat": 16.742170475581094,
+            "lng": -72.55459748127939
+          },
+          {
+            "lat": 16.393511426743284,
+            "lng": -72.94059244383818
+          },
+          {
+            "lat": 16.044159896277012,
+            "lng": -73.32522297736996
+          },
+          {
+            "lat": 15.694115884182278,
+            "lng": -73.70848908187473
+          },
+          {
+            "lat": 15.343415405624272,
+            "lng": -74.09045672471116
+          },
+          {
+            "lat": 14.992058460602998,
+            "lng": -74.47112590587925
+          },
+          {
+            "lat": 14.640080319552439,
+            "lng": -74.85056191187982
+          },
+          {
+            "lat": 14.287480982472594,
+            "lng": -75.22876474271288
+          },
+          {
+            "lat": 13.934295014023705,
+            "lng": -75.60579901817611
+          },
+          {
+            "lat": 13.580522414205767,
+            "lng": -75.98166473826952
+          },
+          {
+            "lat": 13.226197080357775,
+            "lng": -76.35642587337843
+          },
+          {
+            "lat": 12.871319012479724,
+            "lng": -76.73008242350285
+          },
+          {
+            "lat": 12.515921478526991,
+            "lng": -77.10269772972376
+          },
+          {
+            "lat": 12.160004478499577,
+            "lng": -77.47427179204115
+          },
+          {
+            "lat": 11.803600688388679,
+            "lng": -77.84486734486507
+          },
+          {
+            "lat": 11.446710108194303,
+            "lng": -78.2144843881955
+          },
+          {
+            "lat": 11.089364858847333,
+            "lng": -78.58318507466417
+          },
+          {
+            "lat": 10.73156494034777,
+            "lng": -78.95096940427108
+          },
+          {
+            "lat": 10.373341954962305,
+            "lng": -79.31789897477836
+          },
+          {
+            "lat": 9.835372876555251,
+            "lng": -79.86701119188983
+          },
+          {
+            "lat": 9.612320233887761,
+            "lng": -79.89340236338421
+          },
+          {
+            "lat": 9.389267591220271,
+            "lng": -79.91979353487861
+          },
+          {
+            "lat": 9.347381159841335,
+            "lng": -79.91916156010323
+          },
+          {
+            "lat": 9.3106196859433,
+            "lng": -79.91859930268241
+          },
+          {
+            "lat": 9.263863807993928,
+            "lng": -79.92371591327762
+          },
+          {
+            "lat": 9.224163555419384,
+            "lng": -79.92405626364886
+          },
+          {
+            "lat": 9.209926881554665,
+            "lng": -79.92134002148701
+          },
+          {
+            "lat": 9.17943714742286,
+            "lng": -79.86728848332311
+          },
+          {
+            "lat": 9.184128046637142,
+            "lng": -79.84412353839687
+          },
+          {
+            "lat": 9.1571545291729,
+            "lng": -79.81264297221158
+          },
+          {
+            "lat": 9.12261542391739,
+            "lng": -79.80559377425661
+          },
+          {
+            "lat": 9.115034979320324,
+            "lng": -79.78874402268153
+          },
+          {
+            "lat": 9.112585104971018,
+            "lng": -79.76987692003695
+          },
+          {
+            "lat": 9.12196860471552,
+            "lng": -79.75086978573621
+          },
+          {
+            "lat": 9.120144028506957,
+            "lng": -79.73867580374721
+          },
+          {
+            "lat": 9.116884625995269,
+            "lng": -79.72180341297677
+          },
+          {
+            "lat": 9.115858511642443,
+            "lng": -79.7102494932105
+          },
+          {
+            "lat": 9.113625193707946,
+            "lng": -79.70224122078032
+          },
+          {
+            "lat": 9.108100453808035,
+            "lng": -79.69269512806886
+          },
+          {
+            "lat": 9.095528157306163,
+            "lng": -79.68419798803157
+          },
+          {
+            "lat": 9.068238414247247,
+            "lng": -79.6710757649288
+          },
+          {
+            "lat": 9.055672654789404,
+            "lng": -79.65695943400816
+          },
+          {
+            "lat": 9.041535650392433,
+            "lng": -79.64602424808739
+          },
+          {
+            "lat": 9.024256335731408,
+            "lng": -79.62514798405289
+          },
+          {
+            "lat": 9.024059975123777,
+            "lng": -79.62077390968349
+          },
+          {
+            "lat": 9.000692300390355,
+            "lng": -79.59572239284209
+          },
+          {
+            "lat": 8.992671314943195,
+            "lng": -79.58740259403415
+          },
+          {
+            "lat": 8.985405266576535,
+            "lng": -79.58163676872732
+          },
+          {
+            "lat": 8.960533553266119,
+            "lng": -79.57289743278028
+          },
+          {
+            "lat": 8.94357356329256,
+            "lng": -79.5669239731246
+          },
+          {
+            "lat": 8.885664896158927,
+            "lng": -79.5188442578825
+          },
+          {
+            "lat": 8.76244007144878,
+            "lng": -79.46343524873461
+          },
+          {
+            "lat": 8.616186178690896,
+            "lng": -79.45454542199306
+          },
+          {
+            "lat": 7.7420811856584635,
+            "lng": -79.46167602714522
+          },
+          {
+            "lat": 7.161950528097943,
+            "lng": -80.0466246147964
+          },
+          {
+            "lat": 6.96742159792511,
+            "lng": -80.6838007549132
+          },
+          {
+            "lat": 6.965117509286458,
+            "lng": -81.56818731004603
+          },
+          {
+            "lat": 6.9843243518854035,
+            "lng": -82.04855156495218
+          },
+          {
+            "lat": 7.025042125721948,
+            "lng": -82.12489351963166
+          },
+          {
+            "lat": 7.065747512944444,
+            "lng": -82.20124888275372
+          },
+          {
+            "lat": 7.106440513552894,
+            "lng": -82.27761765431835
+          },
+          {
+            "lat": 7.1471209785572105,
+            "lng": -82.35399998729831
+          },
+          {
+            "lat": 7.1877889079573976,
+            "lng": -82.4303958816936
+          },
+          {
+            "lat": 7.228444152648271,
+            "lng": -82.5068054903034
+          },
+          {
+            "lat": 7.269086712629829,
+            "lng": -82.58322881312773
+          },
+          {
+            "lat": 7.309716438680696,
+            "lng": -82.65966600278941
+          },
+          {
+            "lat": 7.350333330800871,
+            "lng": -82.73611705928843
+          },
+          {
+            "lat": 7.390937239651701,
+            "lng": -82.81258213506877
+          },
+          {
+            "lat": 7.4315281652331855,
+            "lng": -82.88906123013041
+          },
+          {
+            "lat": 7.472105958088324,
+            "lng": -82.9655544967355
+          },
+          {
+            "lat": 7.5126706182171175,
+            "lng": -83.04206193488406
+          },
+          {
+            "lat": 7.553221996043152,
+            "lng": -83.11858369665384
+          },
+          {
+            "lat": 7.593760091566427,
+            "lng": -83.19511978204486
+          },
+          {
+            "lat": 7.634284755090066,
+            "lng": -83.27167034294763
+          },
+          {
+            "lat": 7.674795986614068,
+            "lng": -83.34823537936217
+          },
+          {
+            "lat": 7.715293636320045,
+            "lng": -83.42481504298897
+          },
+          {
+            "lat": 7.755777704207996,
+            "lng": -83.50140933382804
+          },
+          {
+            "lat": 7.811023562476796,
+            "lng": -83.58233713389862
+          },
+          {
+            "lat": 7.881031211126445,
+            "lng": -83.66759844320072
+          },
+          {
+            "lat": 7.951021540871481,
+            "lng": -83.75288872633656
+          },
+          {
+            "lat": 8.020994551711901,
+            "lng": -83.83820798330616
+          },
+          {
+            "lat": 8.09094992134706,
+            "lng": -83.92355673856379
+          },
+          {
+            "lat": 8.160887649776953,
+            "lng": -84.00893499210945
+          },
+          {
+            "lat": 8.230807413996835,
+            "lng": -84.09434326875844
+          },
+          {
+            "lat": 8.300709214006705,
+            "lng": -84.17978156851076
+          },
+          {
+            "lat": 8.370592726085258,
+            "lng": -84.26525041654615
+          },
+          {
+            "lat": 8.440457950232492,
+            "lng": -84.3507498128646
+          },
+          {
+            "lat": 8.510304561998087,
+            "lng": -84.43628028301359
+          },
+          {
+            "lat": 8.58013256138204,
+            "lng": -84.5218418269931
+          },
+          {
+            "lat": 8.649941623192552,
+            "lng": -84.60743497072146
+          },
+          {
+            "lat": 8.719731747429622,
+            "lng": -84.69305971419867
+          },
+          {
+            "lat": 8.789502608147505,
+            "lng": -84.77871658371684
+          },
+          {
+            "lat": 8.859254205346199,
+            "lng": -84.86440557927598
+          },
+          {
+            "lat": 8.928986212313546,
+            "lng": -84.95012722754481
+          },
+          {
+            "lat": 8.998698629049542,
+            "lng": -85.03588152852333
+          },
+          {
+            "lat": 9.068391128063157,
+            "lng": -85.12166900925945
+          },
+          {
+            "lat": 9.138063709354386,
+            "lng": -85.20748966975314
+          },
+          {
+            "lat": 9.201171599803306,
+            "lng": -85.2935804816634
+          },
+          {
+            "lat": 9.257714799409918,
+            "lng": -85.37994144499021
+          },
+          {
+            "lat": 9.314237256293659,
+            "lng": -85.46633027705697
+          },
+          {
+            "lat": 9.370738970454527,
+            "lng": -85.55274697786369
+          },
+          {
+            "lat": 9.427219671278882,
+            "lng": -85.63919189013471
+          },
+          {
+            "lat": 9.483679358766723,
+            "lng": -85.72566501387003
+          },
+          {
+            "lat": 9.540117761825659,
+            "lng": -85.81216669162497
+          },
+          {
+            "lat": 9.596534880455689,
+            "lng": -85.89869692339953
+          },
+          {
+            "lat": 9.652930443080377,
+            "lng": -85.98525605157477
+          },
+          {
+            "lat": 9.709304449699722,
+            "lng": -86.07184407615068
+          },
+          {
+            "lat": 9.765656628247974,
+            "lng": -86.15846133932858
+          },
+          {
+            "lat": 9.821986978725134,
+            "lng": -86.24510784110846
+          },
+          {
+            "lat": 9.878295228570877,
+            "lng": -86.33178392350632
+          },
+          {
+            "lat": 9.934581377785207,
+            "lng": -86.41848958652216
+          },
+          {
+            "lat": 9.990845153308022,
+            "lng": -86.50522517198107
+          },
+          {
+            "lat": 10.04708655513932,
+            "lng": -86.59199067988305
+          },
+          {
+            "lat": 10.103305309714017,
+            "lng": -86.67878645185634
+          },
+          {
+            "lat": 10.159501417032113,
+            "lng": -86.76561248790092
+          },
+          {
+            "lat": 10.21567460301837,
+            "lng": -86.85246912944241
+          },
+          {
+            "lat": 10.27182486767279,
+            "lng": -86.9393563764808
+          },
+          {
+            "lat": 10.347834578315357,
+            "lng": -87.09521411131797
+          },
+          {
+            "lat": 10.443703734946073,
+            "lng": -87.32004233395392
+          },
+          {
+            "lat": 10.539414736394217,
+            "lng": -87.54500974371112
+          },
+          {
+            "lat": 10.634967582659787,
+            "lng": -87.77011634058957
+          },
+          {
+            "lat": 10.730359124697639,
+            "lng": -87.99536442213362
+          },
+          {
+            "lat": 10.825589362507769,
+            "lng": -88.22075398834328
+          },
+          {
+            "lat": 10.920655142631759,
+            "lng": -88.4462873125898
+          },
+          {
+            "lat": 11.015556465069611,
+            "lng": -88.6719643948732
+          },
+          {
+            "lat": 11.110290171992048,
+            "lng": -88.89778748375335
+          },
+          {
+            "lat": 11.20485626339907,
+            "lng": -89.12375657923025
+          },
+          {
+            "lat": 11.299251577140403,
+            "lng": -89.3498739044056
+          },
+          {
+            "lat": 11.393476113216044,
+            "lng": -89.5761394592794
+          },
+          {
+            "lat": 11.487526705212128,
+            "lng": -89.80255544084021
+          },
+          {
+            "lat": 11.581403353128652,
+            "lng": -90.02912184908801
+          },
+          {
+            "lat": 11.675102886353299,
+            "lng": -90.25584085423498
+          },
+          {
+            "lat": 11.76862530488607,
+            "lng": -90.48271245628109
+          },
+          {
+            "lat": 11.861967433989236,
+            "lng": -90.70973879799078
+          },
+          {
+            "lat": 11.955129273662793,
+            "lng": -90.93691987936404
+          },
+          {
+            "lat": 12.04810764512468,
+            "lng": -91.164257815038
+          },
+          {
+            "lat": 12.140902548374893,
+            "lng": -91.39175260501267
+          },
+          {
+            "lat": 12.298659344380464,
+            "lng": -91.73668244339156
+          },
+          {
+            "lat": 12.521378033141389,
+            "lng": -92.19904733017466
+          },
+          {
+            "lat": 12.743297705014225,
+            "lng": -92.66221634573867
+          },
+          {
+            "lat": 12.964418359998973,
+            "lng": -93.12618949008356
+          },
+          {
+            "lat": 13.184708127232582,
+            "lng": -93.59099269615578
+          },
+          {
+            "lat": 13.404167006715056,
+            "lng": -94.05662596395533
+          },
+          {
+            "lat": 13.62276294394899,
+            "lng": -94.52311468718017
+          },
+          {
+            "lat": 13.840495938934382,
+            "lng": -94.9904588658303
+          },
+          {
+            "lat": 14.0573337542999,
+            "lng": -95.45868332000994
+          },
+          {
+            "lat": 14.273276390045545,
+            "lng": -95.92778804971907
+          },
+          {
+            "lat": 14.488291427571706,
+            "lng": -96.39779726575983
+          },
+          {
+            "lat": 14.702378866878385,
+            "lng": -96.86871096813223
+          },
+          {
+            "lat": 14.91550611071354,
+            "lng": -97.3405527212689
+          },
+          {
+            "lat": 15.127673159077169,
+            "lng": -97.81332252516985
+          },
+          {
+            "lat": 15.33884723961626,
+            "lng": -98.28704325948236
+          },
+          {
+            "lat": 15.549028352330815,
+            "lng": -98.76171492420643
+          },
+          {
+            "lat": 15.758183554339638,
+            "lng": -99.23735967445997
+          },
+          {
+            "lat": 15.966312845642733,
+            "lng": -99.71397751024297
+          },
+          {
+            "lat": 16.17338311847071,
+            "lng": -100.19158982110085
+          },
+          {
+            "lat": 16.37939437282357,
+            "lng": -100.67019660703362
+          },
+          {
+            "lat": 16.572257604936212,
+            "lng": -101.05677845710854
+          },
+          {
+            "lat": 16.75197281480863,
+            "lng": -101.3513353713256
+          },
+          {
+            "lat": 16.931266507816602,
+            "lng": -101.646451394602
+          },
+          {
+            "lat": 17.110138683960113,
+            "lng": -101.9421265269377
+          },
+          {
+            "lat": 17.288578183427237,
+            "lng": -102.238372836629
+          },
+          {
+            "lat": 17.466585006217972,
+            "lng": -102.53519032367589
+          },
+          {
+            "lat": 17.644147893297266,
+            "lng": -102.83259097205183
+          },
+          {
+            "lat": 17.821266844665114,
+            "lng": -103.13057478175682
+          },
+          {
+            "lat": 17.99793050092691,
+            "lng": -103.42915364572187
+          },
+          {
+            "lat": 18.17413886208265,
+            "lng": -103.72832756394698
+          },
+          {
+            "lat": 18.34988046734621,
+            "lng": -104.02810833126028
+          },
+          {
+            "lat": 18.525155316717598,
+            "lng": -104.32849594766179
+          },
+          {
+            "lat": 18.69995184709771,
+            "lng": -104.62950210246794
+          },
+          {
+            "lat": 18.87427005848656,
+            "lng": -104.93112679567872
+          },
+          {
+            "lat": 19.048098284667255,
+            "lng": -105.23338160333448
+          },
+          {
+            "lat": 19.22143652563981,
+            "lng": -105.53626652543521
+          },
+          {
+            "lat": 19.394273011387824,
+            "lng": -105.83979301661792
+          },
+          {
+            "lat": 19.566607741911305,
+            "lng": -106.1439610768826
+          },
+          {
+            "lat": 19.738428842842353,
+            "lng": -106.44878203096683
+          },
+          {
+            "lat": 19.909736314180968,
+            "lng": -106.75425587887057
+          },
+          {
+            "lat": 20.074080373696567,
+            "lng": -107.02046651168041
+          },
+          {
+            "lat": 20.231461021389148,
+            "lng": -107.24741392939636
+          },
+          {
+            "lat": 20.38854785688224,
+            "lng": -107.47482286486999
+          },
+          {
+            "lat": 20.54534088017584,
+            "lng": -107.70269331810132
+          },
+          {
+            "lat": 20.701833918194872,
+            "lng": -107.93103320444433
+          },
+          {
+            "lat": 20.85802697093934,
+            "lng": -108.15984252389902
+          },
+          {
+            "lat": 21.013913802295313,
+            "lng": -108.38912917878392
+          },
+          {
+            "lat": 21.169494412262807,
+            "lng": -108.61889316909904
+          },
+          {
+            "lat": 21.32476250089271,
+            "lng": -108.84914238149952
+          },
+          {
+            "lat": 21.479718068185022,
+            "lng": -109.07987681598536
+          },
+          {
+            "lat": 21.634354749586137,
+            "lng": -109.31110434077424
+          },
+          {
+            "lat": 21.78867254509604,
+            "lng": -109.54282495586615
+          },
+          {
+            "lat": 21.942665024816115,
+            "lng": -109.77504650811709
+          },
+          {
+            "lat": 22.096332188746352,
+            "lng": -110.00776899752704
+          },
+          {
+            "lat": 22.24966754093338,
+            "lng": -110.24100024651179
+          },
+          {
+            "lat": 22.402671081377207,
+            "lng": -110.47474025507134
+          },
+          {
+            "lat": 22.555336247392763,
+            "lng": -110.7089968179444
+          },
+          {
+            "lat": 22.70766303898006,
+            "lng": -110.94376993513096
+          },
+          {
+            "lat": 22.859644826080277,
+            "lng": -111.17906737029318
+          },
+          {
+            "lat": 23.011281608693427,
+            "lng": -111.41488912343105
+          },
+          {
+            "lat": 23.20801808336324,
+            "lng": -111.64027356295072
+          },
+          {
+            "lat": 23.44985425008972,
+            "lng": -111.8552206888522
+          },
+          {
+            "lat": 23.69139268095915,
+            "lng": -112.07096141011074
+          },
+          {
+            "lat": 23.932633375971534,
+            "lng": -112.28749572672636
+          },
+          {
+            "lat": 24.173567196746365,
+            "lng": -112.50484594885664
+          },
+          {
+            "lat": 24.41419414328365,
+            "lng": -112.72301207650158
+          },
+          {
+            "lat": 24.654504875178528,
+            "lng": -112.94201676916903
+          },
+          {
+            "lat": 24.89449939243101,
+            "lng": -113.161860026859
+          },
+          {
+            "lat": 25.134168145829697,
+            "lng": -113.38256486500813
+          },
+          {
+            "lat": 25.373511135374596,
+            "lng": -113.60413128361643
+          },
+          {
+            "lat": 25.61251859610586,
+            "lng": -113.82658266037657
+          },
+          {
+            "lat": 25.851190528023494,
+            "lng": -114.04991899528858
+          },
+          {
+            "lat": 26.089516943315704,
+            "lng": -114.27416403434302
+          },
+          {
+            "lat": 26.327497841982495,
+            "lng": -114.49931777753989
+          },
+          {
+            "lat": 26.565123006093646,
+            "lng": -114.72540434488727
+          },
+          {
+            "lat": 26.802392435649157,
+            "lng": -114.95242373638516
+          },
+          {
+            "lat": 27.03929567516977,
+            "lng": -115.18040045141686
+          },
+          {
+            "lat": 27.275832724655494,
+            "lng": -115.40933448998237
+          },
+          {
+            "lat": 27.511992883482694,
+            "lng": -115.63925073579253
+          },
+          {
+            "lat": 27.747776151651372,
+            "lng": -115.87014918884735
+          },
+          {
+            "lat": 28.100093975470294,
+            "lng": -116.05364908966291
+          },
+          {
+            "lat": 28.568946354939452,
+            "lng": -116.18975043823924
+          },
+          {
+            "lat": 28.925696080069763,
+            "lng": -116.36276544036389
+          },
+          {
+            "lat": 29.170343150861218,
+            "lng": -116.57269409603683
+          },
+          {
+            "lat": 29.414658854902903,
+            "lng": -116.78363197456635
+          },
+          {
+            "lat": 29.65864319219482,
+            "lng": -116.99557907595242
+          },
+          {
+            "lat": 29.90228623887128,
+            "lng": -117.2085627626457
+          },
+          {
+            "lat": 30.14558799493229,
+            "lng": -117.42258303464618
+          },
+          {
+            "lat": 30.38853827015009,
+            "lng": -117.6376678065991
+          },
+          {
+            "lat": 30.631137064524683,
+            "lng": -117.85381707850445
+          },
+          {
+            "lat": 30.873373912130305,
+            "lng": -118.07105932838051
+          },
+          {
+            "lat": 31.11524881296695,
+            "lng": -118.2893945562273
+          },
+          {
+            "lat": 31.356751015800032,
+            "lng": -118.50885181432159
+          },
+          {
+            "lat": 31.597880520629545,
+            "lng": -118.7294311026634
+          },
+          {
+            "lat": 31.83862628102171,
+            "lng": -118.95116205832231
+          },
+          {
+            "lat": 32.078988296976526,
+            "lng": -119.17404468129833
+          },
+          {
+            "lat": 32.31895521668708,
+            "lng": -119.39810920357284
+          },
+          {
+            "lat": 32.55852704015337,
+            "lng": -119.62335562514586
+          },
+          {
+            "lat": 32.79769209973437,
+            "lng": -119.84981478254433
+          },
+          {
+            "lat": 33.03645039543008,
+            "lng": -120.07748667576824
+          },
+          {
+            "lat": 33.27478993301443,
+            "lng": -120.30640275496137
+          },
+          {
+            "lat": 33.51271071248744,
+            "lng": -120.53656302012374
+          },
+          {
+            "lat": 33.65206928810069,
+            "lng": -120.6644286706678
+          },
+          {
+            "lat": 33.692865659854185,
+            "lng": -120.68999970659357
+          },
+          {
+            "lat": 33.73365675258508,
+            "lng": -120.71559506028703
+          },
+          {
+            "lat": 33.774442566293345,
+            "lng": -120.74121473174816
+          },
+          {
+            "lat": 33.81522307459913,
+            "lng": -120.7668588361541
+          },
+          {
+            "lat": 33.85599827750242,
+            "lng": -120.79252737350485
+          },
+          {
+            "lat": 33.89676814848644,
+            "lng": -120.81822045951303
+          },
+          {
+            "lat": 33.93753268755117,
+            "lng": -120.84393809417863
+          },
+          {
+            "lat": 33.978291868041985,
+            "lng": -120.86968039375286
+          },
+          {
+            "lat": 34.01904568995889,
+            "lng": -120.89544735823573
+          },
+          {
+            "lat": 34.059794126508436,
+            "lng": -120.92123910442027
+          },
+          {
+            "lat": 34.10053717769064,
+            "lng": -120.94705563230647
+          },
+          {
+            "lat": 34.141274816572356,
+            "lng": -120.97289705923231
+          },
+          {
+            "lat": 34.18200704315358,
+            "lng": -120.99876338519778
+          },
+          {
+            "lat": 34.22273383036049,
+            "lng": -121.02465472808895
+          },
+          {
+            "lat": 34.26345517819307,
+            "lng": -121.05057108790582
+          },
+          {
+            "lat": 34.30417105943587,
+            "lng": -121.07651258308593
+          },
+          {
+            "lat": 34.34488147408889,
+            "lng": -121.10247921362927
+          },
+          {
+            "lat": 34.385586394794075,
+            "lng": -121.12847109852785
+          },
+          {
+            "lat": 34.42628582155141,
+            "lng": -121.15448823778169
+          },
+          {
+            "lat": 34.49960749983222,
+            "lng": -121.19696398207606
+          },
+          {
+            "lat": 34.6055514296365,
+            "lng": -121.25589833141095
+          },
+          {
+            "lat": 34.71146685770566,
+            "lng": -121.31498370754079
+          },
+          {
+            "lat": 34.81735378403971,
+            "lng": -121.37422011046559
+          },
+          {
+            "lat": 34.92321183507077,
+            "lng": -121.43360943678168
+          },
+          {
+            "lat": 35.02904101079884,
+            "lng": -121.49315168648907
+          },
+          {
+            "lat": 35.13484093240953,
+            "lng": -121.55284878070887
+          },
+          {
+            "lat": 35.240611599902834,
+            "lng": -121.61270071944108
+          },
+          {
+            "lat": 35.3463526291212,
+            "lng": -121.67270944873825
+          },
+          {
+            "lat": 35.45206402006461,
+            "lng": -121.73287496860037
+          },
+          {
+            "lat": 35.55774538313386,
+            "lng": -121.79319925042505
+          },
+          {
+            "lat": 35.66339671832895,
+            "lng": -121.85368229421228
+          },
+          {
+            "lat": 35.76901763050843,
+            "lng": -121.91432609712511
+          },
+          {
+            "lat": 35.87460811967232,
+            "lng": -121.97513065916355
+          },
+          {
+            "lat": 35.98016778503441,
+            "lng": -122.03609800368379
+          },
+          {
+            "lat": 36.08569662659471,
+            "lng": -122.09722813068582
+          },
+          {
+            "lat": 36.191194237817605,
+            "lng": -122.15852309015364
+          },
+          {
+            "lat": 36.2966606187031,
+            "lng": -122.21998288208724
+          },
+          {
+            "lat": 36.402095356859384,
+            "lng": -122.28160958354053
+          },
+          {
+            "lat": 36.50749845228646,
+            "lng": -122.34340319451351
+          },
+          {
+            "lat": 36.62905,
+            "lng": -122.4004
+          },
+          {
+            "lat": 36.76675,
+            "lng": -122.4526
+          },
+          {
+            "lat": 36.8996,
+            "lng": -122.53535
+          },
+          {
+            "lat": 37.0276,
+            "lng": -122.64865
+          },
+          {
+            "lat": 37.14568506565611,
+            "lng": -122.69541988901246
+          },
+          {
+            "lat": 37.25385519696833,
+            "lng": -122.67565966703738
+          },
+          {
+            "lat": 37.39413424214319,
+            "lng": -122.66455363188307
+          },
+          {
+            "lat": 37.65271618069943,
+            "lng": -122.66087585938274
+          },
+          {
+            "lat": 37.72934844442675,
+            "lng": -122.66259952443387
+          },
+          {
+            "lat": 37.76624870024868,
+            "lng": -122.6246264200535
+          },
+          {
+            "lat": 37.78896103607434,
+            "lng": -122.54753110125867
+          },
+          {
+            "lat": 37.80231613866259,
+            "lng": -122.50653100961995
+          },
+          {
+            "lat": 37.806314008013445,
+            "lng": -122.50162614513731
+          },
+          {
+            "lat": 37.81724252842255,
+            "lng": -122.4746256724397
+          },
+          {
+            "lat": 37.8440312856236,
+            "lng": -122.40098155107083
+          },
+          {
+            "lat": 37.935294706026404,
+            "lng": -122.44219259912332
+          },
+          {
+            "lat": 37.9996,
+            "lng": -122.4158
+          },
+          {
+            "lat": 38.0373,
+            "lng": -122.3584
+          },
+          {
+            "lat": 38.0655,
+            "lng": -122.2301
+          },
+          {
+            "lat": 38.05416386557385,
+            "lng": -122.18585622733325
+          },
+          {
+            "lat": 38.029679239837776,
+            "lng": -122.15605329893283
+          },
+          {
+            "lat": 38.042238,
+            "lng": -122.13381
+          }
+        ]
+      }
+    },
+    {
+      "headline": "Your Porsche has arrived at the local entry port",
+      "description": "The ship has reached the port of destination. After unloading, an extensive quality check is performed on your vehicle. Import customs clearance is successfully completed and the vehicle is prepared for the final stage of transport to the Porsche dealer. ",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/3CQGEHqFtstSJ8IEDJoQ3R/1a7da015c2a92ad8f585137bad7f81bc/718_M7_VM19_2747.jpg"
+        }
+      ],
+      "position": 9,
+      "title": "entryLocalPort",
+      "location": {
+        "ident": "PortBenicia",
+        "lat": "38.041906",
+        "lng": "-122.135274"
+      },
+      "date": "2023-08-05T12:00:00Z",
+      "dateType": "P"
+    },
+    {
+      "headline": "Your Porsche is en route to your Porsche dealer",
+      "description": "It's been a long journey, but tremendous news: your Porsche is on its way! After an exhaustive process, your vehicle is on its way to your Porsche dealer. We are confident you'll find that the time spent planning and anticipating your dream vehicle was time well spent. Soon the keys will be in your hand. As the delivery date draws near, consider what route you'll take on your first drive in your custom Porsche.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/3wiHxxi0tcl78S7zDQSpiT/b942180aaef71e3e64f1283f48ed8289/718-auLac.jpg"
+        }
+      ],
+      "position": 10,
+      "title": "exitLocalPort",
+      "location": {
+        "ident": "PortBenicia",
+        "lat": "38.041906",
+        "lng": "-122.135274"
+      },
+      "date": "2023-08-13T12:00:00Z",
+      "dateType": "P"
+    },
+    {
+      "headline": "Your Porsche has arrived at your Porsche dealer",
+      "description": "Let anticipation give way to unbridled excitement and prepare to be thrilled. Your Porsche has completed its journey and has safely arrived at your Porsche dealer. Your Porsche dealer will contact you as soon as your vehicle is ready for pick-up and you will then be able to drive your Porsche home. As you welcome it into your family, we welcome you to the Porsche family. No action is required on your part. Soon you can take the driver's seat in your Porsche. We wish you many happy journeys in your new vehicle. Once you've added your vehicle to My Porsche, you can use individual services, discover special offers and find exciting events for Porsche owners.",
+      "eventParts": [
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/3hBNy3pT4APXiRRdkWZ9nA/6455fe4a441a0fd8ccae13e8ea0c04d1/718-G2.jpg"
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/43xevFCzre1oMUjUzyKuxA/327b4d5492588658cd14f69f7b67497a/718-Alps.jpg",
+          "eventPartDescription": "With the purchase of your Porsche, you’ve already made your dream come true. Porsche Tequipment allows you to continue to dream, with accessories designed specifically to suit your vehicle. Porsche Tequipment offers accessories and retrofit options for all Porsche model lines and derivatives. You can individualize your vehicle and purchase a variety of genuine accessories even after your vehicle has left the factory. The Tequipment portfolio includes retrofit options such as SportDesign packages or wheel-and-tire sets as well as genuine accessories such as car covers, roof transport systems, motorsport and many more. All products are developed and tested in Weissach. The result: First-class design, maximum suitability for everyday use and Porsche quality – combined. And with guaranteed warranty. For more Sports car Fascination."
+        },
+        {
+          "eventImage": "//images.ctfassets.net/if2f7i6odbfv/4yf54yt7WP2jRFZQS6hJst/ce657775cb9003c2553408475a4e9ec4/718_-_MS9_-_VM21_3944_-_neu.jpg",
+          "eventPartDescription": "From servicing and maintenance to expert repairs - your Porsche is in the best hands at our Porsche dealers. The online appointment system allows you to find a service appointment at your preferred Porsche dealer in just a few steps. In addition to selecting the service you require, you can also specify a preference for a replacement vehicle and your supervising service advisor. The team at your Porsche dealer will ensure that you receive expert advice and that your performance sports car is in the best hands. Day after day."
+        }
+      ],
+      "position": 11,
+      "title": "dealerArrival",
+      "location": {
+        "ident": "PorscheStevensCreek",
+        "lat": "37.32375",
+        "lng": "-121.974442"
+      },
+      "date": "2023-08-14T12:00:00Z",
+      "dateType": "P"
+    }
+  ],
+  "vehicleData": {
+    "modelYear": 2024,
+    "orderTypeCode": "982310",
+    "technicalData": {
+      "categorized": [
+        {
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Engine"
+              }
+            ]
+          },
+          "technicalAttributes": [
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Maximum power combustion engine"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "300 hp"
+                  }
+                ]
+              },
+              "disclaimer": {
+                "translations": []
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Maximum power combustion engine at rpm"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "6,500 rpm"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Maximum torque combustion engine"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "280 lb-ft"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Maximum torque combustion engine at rpm range"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "2,150 - 4,500 rpm"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Number of cylinders"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "4"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Displacement"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "1,988 cm³"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Bore"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "3.58 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Stroke"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "3.01 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Fuel Type"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Premium Unleaded"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Drivetrain and Transmission"
+              }
+            ]
+          },
+          "technicalAttributes": [
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Drivetrain"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Rear-wheel-drive"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Transmission"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "PDK (Automatic)"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Performance"
+              }
+            ]
+          },
+          "technicalAttributes": [
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Top track speed"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "171 mph"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Acceleration 0-60 mph"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "4.7 sec"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Acceleration 0-60 mph with Sport Chrono Package"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "4.5 sec"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Body - Dimensions and Weights"
+              }
+            ]
+          },
+          "technicalAttributes": [
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Length"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "172.4 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Width (with mirrors)"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "78.5 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Width (with mirrors folded)"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "70.9 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Height"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "50.4 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Wheelbase"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "97.4 in"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Curb weight"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "3,009 lb"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Gross Vehicle Weight Rating (GVWR)"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "3,715 lb"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Maximum load"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "617 lb"
+                  }
+                ]
+              }
+            },
+            {
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Fuel tank capacity"
+                  }
+                ]
+              },
+              "value": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "14.3 gal (US)"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "engine": {
+        "power": {
+          "marketing": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Maximum power combustion engine"
+                }
+              ]
+            },
+            "formattedInMarketplace": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "300 hp"
+                }
+              ]
+            }
+          }
+        },
+        "maxTorque": {
+          "combustionEngine": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Maximum torque combustion engine"
+                }
+              ]
+            },
+            "value": {
+              "formattedInMarketplace": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "280 lb-ft"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "performance": {
+        "acceleration": {
+          "from0To60Mph": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Acceleration 0-60 mph"
+                }
+              ]
+            },
+            "value": {
+              "sec": {
+                "displayInMarketplace": true,
+                "formattedWithUnit": {
+                  "translations": [
+                    {
+                      "languageTag": "en-US",
+                      "translation": "4.7 sec"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "from0To60MphSportChrono": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Acceleration 0-60 mph with Sport Chrono Package"
+                }
+              ]
+            },
+            "value": {
+              "sec": {
+                "displayInMarketplace": true,
+                "formattedWithUnit": {
+                  "translations": [
+                    {
+                      "languageTag": "en-US",
+                      "translation": "4.5 sec"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "from0To100Kmh": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Acceleration 0-62 mph"
+                }
+              ]
+            },
+            "value": {
+              "sec": {
+                "displayInMarketplace": false,
+                "formattedWithUnit": {
+                  "translations": [
+                    {
+                      "languageTag": "en-US",
+                      "translation": "4.9 sec"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "from0To100KmhSportChrono": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Acceleration 0-62 mph with Sport Chrono Package"
+                }
+              ]
+            },
+            "value": {
+              "sec": {
+                "displayInMarketplace": false,
+                "formattedWithUnit": {
+                  "translations": [
+                    {
+                      "languageTag": "en-US",
+                      "translation": "4.7 sec"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "topSpeed": {
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Top track speed"
+              }
+            ]
+          },
+          "value": {
+            "formattedInMarketplace": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "171 mph"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "standardEquipment": {
+      "texts": []
+    },
+    "equipmentInformation": {
+      "categories": [
+        {
+          "equipment": [
+            {
+              "optionCode": "P9J",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Premium Package"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Lane Change Assist (LCA)</li><li>Ventilated Seats</li><li>Entry & Drive</li><li>Light Design Package</li><li>Power Folding Exterior Mirrors incl. Courtesy Lighting</li><li>Passenger Footwell Storage Net</li></ul>"
+                  }
+                ]
+              },
+              "imageKeys": [],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 60
+            }
+          ],
+          "key": "PACKAGES",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Packages"
+              }
+            ]
+          },
+          "sortIndex": 0
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "ATR",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Exterior Decals in Black"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Exterior decals in black on front trunk lid and side stripes with \"PORSCHE\" logo."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/ATR/0",
+                "2024/982310/equipment/ATR/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 130
+            },
+            {
+              "optionCode": "519",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "\"PORSCHE\" Logo in Satin Black"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "\"PORSCHE\" logo on rear painted in Satin Black.<br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/519/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 710
+            }
+          ],
+          "key": "FOILS",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Foils"
+              }
+            ]
+          },
+          "sortIndex": 2
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "XUB",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Headlight Cleaning System Covers in Exterior Color"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Headlight cleaning system covers painted in exterior color."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XUB/0",
+                "2024/982310/equipment/XUB/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 180
+            },
+            {
+              "optionCode": "546",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Supplemental Safety Bars in Exterior Color"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Supplemental safety bars painted in exterior color."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/546/0",
+                "2024/982310/equipment/546/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 390
+            }
+          ],
+          "key": "EXTERIOR",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Exterior"
+              }
+            ]
+          },
+          "sortIndex": 4
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "250",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "7-speed Porsche Doppelkupplung (PDK)"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "7-speed Porsche Doppelkupplung (PDK)"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/250/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 470
+            },
+            {
+              "optionCode": "475",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Porsche Active Suspension Management (PASM) (Lowered 10 mm)"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Electronically controlled damper system with two manually selectable settings (\"Normal\" and \"Sport\")</li><li>Reduced ride height of 10 mm</li></ul><br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/475/0",
+                "2024/982310/equipment/475/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 630
+            },
+            {
+              "optionCode": "220",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Porsche Torque Vectoring (PTV) with Mechanically Locking Differential"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Variable torque distribution through controlled braking on the rear wheels</li><li>Mechanically controlled differential lock with asymmetrical locking action (22% in traction, 27% in overrun) for increased agility, steering precision, traction, and vehicle stability</li></ul>Note: Only in conjunction with Porsche Active Suspension Management (PASM) (Lowered 10 mm) or PASM Sport Suspension (Lowered 20 mm).<br><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/220/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 670
+            },
+            {
+              "optionCode": "QR5",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Sport Chrono Package"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>The Sport Chrono Package adds numerous features for sport-oriented drivers:</strong><br><br><br><ul><li><strong>Analog and digital chronograph</strong> – a chronometer installed on top of the dashboard can be used for timing laps, and can be configured as a clock when not actively used as a stopwatch.</li></ul><br><br><ul><li><strong>Mode switch on the steering wheel</strong> – vehicles without the Sport Chrono Package feature Normal and Sport modes, selectable via a SPORT button on the center console. Adding the Sport Chrono Package moves the SPORT button from the center console to an additional mode switch on the steering wheel, allowing drivers to select from multiple drive modes (4 with M/T, 5 with PDK):</li></ul><strong>              1.</strong>Normal mode<br>              2.SPORT mode<br>              3.SPORT PLUS mode<br>              4.Individual mode<br>              5.SPORT Response (only in conjunction with PDK)<br><br><br><ul><li><strong>PSM Sport mode</strong> – briefly pressing (< 1 second) the PSM button in the center console activates the PSM Sport mode. In this mode, the driver can push closer to the limit range of the vehicle while PSM remains constantly active in the background. PSM Sport mode can be activated independently of the selected driving mode.</li></ul><br><br><ul><li><strong>Launch control</strong> – the launch control function manages the engine, gearbox, and stability control systems to provide the quickest standing-start acceleration. This function is only available on vehicles equipped with the PDK gearbox.</li></ul><br><br><ul><li><strong>Rev-match function</strong> – in conjunction with Manual Transmission, the Sport Chrono package provides a rev-match function in both SPORT and SPORT PLUS modes, matching engine RPM to transmission speed for smooth downshifts.</li></ul><br><br><ul><li><strong>Porsche Active Driveline Mounts</strong> – In Normal mode, magnetorheological driveline mounts remain soft to minimize perceptible vibration of the drivetrain. With SPORT mode switched on, the mounts stiffen for driveline dynamics suiting a sporty driving style. With SPORT PLUS mode switched on, driveline mounts stiffen further for maximum performance.</li></ul><br><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/QR5/0",
+                "2024/982310/equipment/QR5/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 780
+            },
+            {
+              "optionCode": "658",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Power Steering Plus"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Speed-sensitive power-assisted steering system. Reduces steering effort during maneuvering and at lower speeds."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/658/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 980
+            },
+            {
+              "optionCode": "085",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Extended Range Fuel Tank, 16.9 gal"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Fuel tank with increased capacity of 16.9 gal (from 14.3 gal)."
+                  }
+                ]
+              },
+              "imageKeys": [],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 1350
+            }
+          ],
+          "key": "TRANSMISSION_CHASSIS",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Transmission / Chassis"
+              }
+            ]
+          },
+          "sortIndex": 5
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "444",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Locking Wheel Bolts"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Thatcham locking wheel bolts (one per wheel) and one adapter. The wheel bolts have a screw head with a specially shaped internal profile and can only be loosened with the supplied adapter.<br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/444/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 70
+            },
+            {
+              "optionCode": "XDK",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Wheels Painted in Satin Black"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Wheels painted in Satin Black.  Includes wheels center caps with colored Porsche Crest."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XDK/0",
+                "2024/982310/equipment/XDK/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 120
+            },
+            {
+              "optionCode": "424",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "20\" 718 Spyder Wheels in High Gloss Black"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>718 Spyder Wheels</li><li>Paint finish in High Gloss Black</li><li>Front: 235/35 R20 Tires</li><li>Rear: 265/30 R20 tires</li><li>Wheel center caps with colored Porsche Crest</li></ul>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/424/0",
+                "2024/982310/equipment/424/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 210
+            }
+          ],
+          "key": "WHEELS",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Wheels"
+              }
+            ]
+          },
+          "sortIndex": 6
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "XHW",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Heated Multifunction Sport Steering Wheel in Carbon Fiber"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Specially designed steering wheel with Carbon Fiber and leather finish. Multifunction controls for audio and communication functions and on-board computer.  Steering wheel rim heating, activated by control button on steering wheel.<br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XHW/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 10
+            },
+            {
+              "optionCode": "P07",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Adaptive Sport Seats Plus (18-way) with Memory Package"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Driver and passenger seats with raised side bolsters on seat cushion and extended bolsters on seat backrest for additional shoulder support. Driver's seat features memory function of seat position and side mirrors as well as individual setting such as lights, wipers, climate control, door lock setting, on-board computer and PCM. Front seats offer electric adjustment of:<br><ul><li>Seat backrest</li><li>Seat height</li><li>Fore/aft position</li><li>Seat cushion inclination</li><li>Seat cushion depth</li><li>Lumbar support (4-way)</li><li>Seat cushion side bolster</li><li>Backrest side bolsters</li></ul>Note: Front seats covered in smooth-finish leather with backrest shells finished in Silver Grey.<br><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/P07/0",
+                "2024/982310/equipment/P07/1",
+                "2024/982310/equipment/P07/2"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 170
+            },
+            {
+              "optionCode": "541",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Ventilated Seats"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Electric ventilation of front seats with three levels of adjustment</li></ul>Note: Only in conjunction with seat heating, not compatible with Full Bucket Seats, Sport-Tex seats or Race-Tex Seats.  When ventilated seats are added to 718 GTS 4.0 or 718 T models, the embroidered logo on the headrests are removed. <br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/541/0",
+                "2024/982310/equipment/541/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 350
+            },
+            {
+              "optionCode": "EKG",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Interior Trim in Carbon Fiber i.c.w. Leather Interior"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes in Carbon Fiber:</strong><br><ul><li>Dashboard trim including cupholder trim</li><li>Door trim</li><li>Center console trim</li></ul>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/EKG/0",
+                "2024/982310/equipment/EKG/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 400
+            },
+            {
+              "optionCode": "XHU",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Seat Belts in Bordeaux Red"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Seat Belts in Bordeaux Red"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XHU/0",
+                "2024/982310/equipment/XHU/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 600
+            },
+            {
+              "optionCode": "XHJ",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "PDK Gear Selector with Carbon Fiber Trim"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "PDK gear selector with Carbon Fiber and leather trim."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XHJ/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 610
+            },
+            {
+              "optionCode": "EFA",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Pedals and Footrest in Aluminum"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Pedals and footrest in forged aluminum with black anodized and nanocoated finish."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/EFA/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 1200
+            },
+            {
+              "optionCode": "XXV",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Pedals in aluminium"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Sports-style pedals in forged aluminium with black anodised and nanocoated finish"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XXV/0"
+              ],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 1220
+            },
+            {
+              "optionCode": "BYX",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Personalized Floor Mats with Leather Edging"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Fully customizable</li><li>Set of two floor mats</li><li>Edge in smooth-finish leather with double decorative stitching</li><li>Leather inlays with \"PORSCHE\" logo</li><li>Free choice of color for carpet, leather edging, stitching and leather inlay</li></ul><br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/BYX/0",
+                "2024/982310/equipment/BYX/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 2100
+            }
+          ],
+          "key": "INTERIOR",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Interior"
+              }
+            ]
+          },
+          "sortIndex": 7
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "9ZE",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Smartphone Compartment"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Smartphone compartment in center console for optimized cellular reception and battery-saving operation. It is the customer’s responsibility to register with their wireless service provider prior to using the signal booster.<br><br><br>Note: USB port instead of 12-volt socket in the center console storage compartment.  Deletion of AUX port in the glove compartment. <br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/9ZE/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 140
+            },
+            {
+              "optionCode": "9VL",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "BOSE® Surround Sound System"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "BOSE® Surround Sound System with 10 loudspeakers including center speaker and an active subwoofer integrated into the vehicle body. Fully active sound system with a total output of 505 watts. BOSE® Centerpoint® 2 and SurroundStage® technologies enable the system to play stereo recordings in a virtual surround mode. AudioPilot® Noise Compensation Technology ensures a consistent and well-balanced sound in all driving conditions."
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/9VL/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 190
+            }
+          ],
+          "key": "AUDIO_COMMUNICATION",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Audio / Communication"
+              }
+            ]
+          },
+          "sortIndex": 15
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "715",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Power Folding Exterior Mirrors incl. Courtesy Lighting"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Power Folding Exterior Mirrors incl. Courtesy Lighting"
+                  }
+                ]
+              },
+              "imageKeys": [],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 360
+            }
+          ],
+          "key": "LIGHTS_VISION",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Lights"
+              }
+            ]
+          },
+          "sortIndex": 23
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "457",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Lane Change Assist (LCA)"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Lane Change Assist monitors the driver's blind spots and areas to the rear of the vehicle on both sides. A visual signal in the corresponding door mirror panel informs the driver that a vehicle has been detected in the adjacent lane. Available at 20+ mph.<br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/457/0",
+                "2024/982310/equipment/457/1"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 60
+            },
+            {
+              "optionCode": "625",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Porsche Entry & Drive"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><br><ul><li>Vehicle locking, unlocking and engine start without active use of the key including opening of the front and rear trunk compartments</li><li>System comprises antennas in cabin and externally as well as proximity sensors in the door handles.</li></ul><br><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/625/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 90
+            },
+            {
+              "optionCode": "XWN",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Preparation for Porsche Dashcam (Front)"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Pre-wiring for Porsche Dashcam (front), which is available separately via Tequipment.<br><br><br><br><br>Note: Additional labor and parts are required for complete dashcam installation. Please consult your authorized Porsche Dealer for further details.<br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/XWN/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 180
+            },
+            {
+              "optionCode": "630",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Light Design Package"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Additional dimmable ambient LED lighting in:</strong><br><ul><li>Overhead console</li><li>Area of door handles</li><li>Door storage compartment</li><li>Driver and front passenger footwell</li><li>Illumination of vanity mirrors in the sun visors</li></ul><br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/630/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 230
+            },
+            {
+              "optionCode": "456",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Adaptive Cruise Control (ACC)"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Radar- and video-based technology that monitors and automatically regulates the distance from the vehicle in front as required even down to a halt by means of the stop-and-go function (usable at 19+ mph). Additional functions: audible warning if too close; warning by active jolt of the brakes; strategic braking; visual and audible warning if objects are detected within collision range.<br><br><br>Note: Only in conjunction with PDK.<br/><br/>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/456/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 440
+            },
+            {
+              "optionCode": "583",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Smoking Package"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:\r\n</strong><ul>\r\n<li>Ashtray and cigarette lighter in the center console in place of the open storage compartment</li></ul>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/583/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 520
+            },
+            {
+              "optionCode": "581",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Luggage Net in Passenger Footwell"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "<strong>Includes:</strong><ul><li>Storage net on the front passenger side of center tunnel</li><li>Finished in the color of the carpet</li></ul>"
+                  }
+                ]
+              },
+              "imageKeys": [
+                "2024/982310/equipment/581/0"
+              ],
+              "visibleForCustomers": true,
+              "selectedByCustomer": true,
+              "sortIndex": 740
+            }
+          ],
+          "key": "COMFORT_ASSISTANCE",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Comfort Assistance"
+              }
+            ]
+          },
+          "sortIndex": 24
+        },
+        {
+          "equipment": [
+            {
+              "optionCode": "XGB",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Interior Trim in Carbon Fiber"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Interior trim in Carbon Fiber on the dashboard and center console."
+                  }
+                ]
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 0
+            },
+            {
+              "optionCode": "XWC",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Door Panel Trim in Carbon"
+                  }
+                ]
+              },
+              "description": {
+                "translations": []
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 0
+            },
+            {
+              "optionCode": "XXZ",
+              "name": {
+                "translations": []
+              },
+              "description": {
+                "translations": []
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 0
+            },
+            {
+              "optionCode": "323",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Adaptive sport seat Plus, electrical (18-way, electric) - LEFT"
+                  }
+                ]
+              },
+              "description": {
+                "translations": []
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 200
+            },
+            {
+              "optionCode": "324",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Adaptive sport seat Plus, electrical (18-way, electric) - RIGHT"
+                  }
+                ]
+              },
+              "description": {
+                "translations": []
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 210
+            },
+            {
+              "optionCode": "XHM",
+              "name": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Center Console Trim in Carbon Fiber"
+                  }
+                ]
+              },
+              "description": {
+                "translations": [
+                  {
+                    "languageTag": "en-US",
+                    "translation": "Includes:\r\n<ul>\r\n<li><b><u>Finished in Carbon Fiber</b></u><br>\r\n- Center console trim</li>\r\n</ul>"
+                  }
+                ]
+              },
+              "imageKeys": [],
+              "visibleForCustomers": false,
+              "selectedByCustomer": false,
+              "sortIndex": 440
+            }
+          ],
+          "key": "OTHERS",
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "Others"
+              }
+            ]
+          },
+          "sortIndex": 26
+        }
+      ],
+      "packages": [
+        {
+          "optionCode": "P9J",
+          "contents": [
+            {
+              "optionCode": "457",
+              "isUpgraded": false
+            },
+            {
+              "optionCode": "625",
+              "isUpgraded": false
+            },
+            {
+              "optionCode": "630",
+              "isUpgraded": false
+            },
+            {
+              "optionCode": "541",
+              "isUpgraded": false
+            },
+            {
+              "optionCode": "715",
+              "isUpgraded": false
+            },
+            {
+              "optionCode": "581",
+              "isUpgraded": false
+            }
+          ]
+        }
+      ],
+      "options": {
+        "wheels": {
+          "category": {
+            "name": {
+              "translations": [
+                {
+                  "languageTag": "en-US",
+                  "translation": "Wheels"
+                }
+              ]
+            }
+          },
+          "name": {
+            "translations": [
+              {
+                "languageTag": "en-US",
+                "translation": "20\" 718 Spyder Wheels in High Gloss Black"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "transmission": {
+      "optionName": {
+        "translations": [
+          {
+            "languageTag": "en-US",
+            "translation": "7-speed Porsche Doppelkupplung (PDK)"
+          }
+        ]
+      }
+    },
+    "exteriorColor": {
+      "name": {
+        "translations": [
+          {
+            "languageTag": "en-US",
+            "translation": "Carmine Red"
+          }
+        ]
+      }
+    },
+    "interior": {
+      "name": {
+        "translations": [
+          {
+            "languageTag": "en-US",
+            "translation": "Leather Interior in Black with Deviated Stitching in Chalk"
+          }
+        ]
+      }
+    },
+    "orderTypeBasicInformation": {
+      "name": {
+        "translations": [
+          {
+            "languageTag": "en-US",
+            "translation": "718 Boxster Style Edition"
+          }
+        ]
+      }
+    }
+  },
+  "generatedImages": {
+    "extcam01": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbE6Fb%252Ts65%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "extcam03": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbE6Fb%252Tso5%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "extcam02": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbE6Fb%252TsA5%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "extcam04": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbE6Fb%252TsC5%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "intcam01": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbEJZb%252Ts65%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "intcam02": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbEJZb%252TsA5%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds",
+    "extcam05": "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713coqK12UCfEyq5DVLCU%25hQXwQS%2583CgB81BImFLgCcNdenrIzznTV2v4fyKgKkQjiiYRY40s6oDzdaKm1BJ5RlfBpbE6Fb%252Tsd5%25Hpj6Rw6eR4iALAY6CNvLmwZ1g5bd3aN2UCADP3aMkmnw1VQ9Eeqmo%25LRUbvmGVAOHEFmlsiRHS0MVV2YTpQmcPiKpbdnBODOtEZsBsMLF1bJ5GXkrpNFL32KyXGT2Q9%25TgGfIjfSNDrx4FV8uz3QNk67NPrhJaD0ugpj2I60Kc6kWTQdG8aiftFt1BDMX2qZ85GFUSkNnbAY6nNEynHXkQjxCJNy2E1GItGCwNv87fhQXC6%25Il3CgP1Ds"
+  },
+  "productionImages": [
+    {
+      "cameraLocation": "911_718_bodywork",
+      "headline": "Body Work",
+      "description": "Your vehicle is at the end of the top floor of the sports car assembly and is about to be transported down one floor. Multi-storey production is a special feature of Porsche production.",
+      "url": "https://my.porsche.com/static/mycontent/processed/6493f6699619715a6b398b1b.jpg"
+    },
+    {
+      "cameraLocation": "911_718_assembly",
+      "headline": "Assembly",
+      "description": "Your vehicle is located on the middle floor of the sports car assembly area and will be placed on a conveyor belt from the hanger and continues in the direction of wheel/tire assembly, installation, seats and doors.",
+      "url": "https://my.porsche.com/static/mycontent/processed/649437ae9619715a6b398d34.jpg"
+    },
+    {
+      "cameraLocation": "911_718_elevator",
+      "headline": "Assembly",
+      "description": "Your Porsche has reached the end of the production process and will immediately take the elevator down one level to be checked completely in the test facility.",
+      "url": "https://my.porsche.com/static/mycontent/processed/64944b1b9619715a6b398de5.jpg"
+    }
+  ]
+}
