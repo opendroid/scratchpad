@@ -4,7 +4,8 @@ let fs = require('fs');
 let data = require('./july-11-2023.json');
 
 const pathData = data.milestones[7].transportRoute.coordinates;
-const path = pathData.map((c) => `${c.lng},${c.lat}`).join(",\n\t\t\t\t");
+const path = pathData.map((c) => `${c.lng},${c.lat},0`).join(",\n\t\t");
+// See https://kml4earth.appspot.com/icons.html for links to icons
 // kml: Note that the color is not #rrggbb but #aabbggrr (alpha, blue, green, red)
 const kml = `<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
@@ -23,7 +24,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Style id="highlightPlacemark">
       <IconStyle>
         <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+          <href>https://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -34,6 +35,13 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="yellow-dot">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/ylw-blank-lv.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>    
     <Style id="factoryPlacemark">
       <IconStyle>
         <Icon>
@@ -70,7 +78,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
       <LineString>
         <extrude>1</extrude>
         <tessellate>1</tessellate>
-        <altitudeMode>absolute</altitudeMode>
+        <altitudeMode>clampToGround</altitudeMode>
         <coordinates>
         ${path}
         </coordinates>
@@ -155,7 +163,151 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
       <Point>
         <coordinates>-53.46836487692796,31.400069108333586,0</coordinates>
       </Point>
-    </Placemark>                
+    </Placemark>
+    <Placemark>
+      <name>07-17-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:16 PM PST</description>
+      <Point>
+        <coordinates>-57.20851476495191,28.447501796301566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-18-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:01 PM PST</description>
+      <Point>
+        <coordinates>-61.05755753731444,25.113154786613975,0</coordinates>
+      </Point>
+    </Placemark>                             
+    <Placemark>
+      <name>07-19-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:18 PM PST</description>
+      <Point>
+        <coordinates>-64.77269395190356,21.61202687947716,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>07-20-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:05 PM PST</description>
+      <Point>
+        <coordinates>-68.0099077662465,18.421347981370392,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-21-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:48 PM PST</description>
+      <Point>
+        <coordinates>-72.38172730508852,16.869361677302113,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-22-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:00 PM PST</description>
+      <Point>
+        <coordinates>-75.90736847797376,13.650581318725092,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-23-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:13 PM PST</description>
+      <Point>
+        <coordinates>-79.32194937315413,10.369383745478736,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 7:12 AM PST</description>
+      <Point>
+        <coordinates>-79.5350972444585,8.90524323061693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 8:20 AM PST</description>
+      <Point>
+        <coordinates>-79.4596218706555,8.69971704100413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 9:17 AM PST</description>
+      <Point>
+        <coordinates>-79.455359272967,8.51661656711562,0</coordinates>
+      </Point>
+    </Placemark>    
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 10:14 AM PST</description>
+      <Point>
+        <coordinates>-79.456877469094,8.33073655280564,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 11:33 AM PST</description>
+      <Point>
+        <coordinates>-79.458934233519,8.07863576721062,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 12:46 PM PST</description>
+      <Point>
+        <coordinates>-79.4608716528468,7.84087474846628,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 3:46 PM PST</description>
+      <Point>
+        <coordinates>-79.8025770245288,7.40426764465413,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>07-24-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:59 PM PST</description>
+      <Point>
+        <coordinates>-81.0796384679874,6.966593503362408,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-25-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:38 PM PST</description>
+      <Point>
+        <coordinates>-84.74456109342238,8.761687076652033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-26-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:57 PM PST</description>
+      <Point>
+        <coordinates>-88.8591670576611,11.09410498163122,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-27-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:59 PM PST</description>
+      <Point>
+        <coordinates>-93.37136694725237,13.08077084853813,0</coordinates>
+      </Point>
+    </Placemark>                                
     <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
@@ -174,4 +326,5 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     </Placemark>
   </Document>
 </kml>`;
-fs.writeFileSync('porsche-6.kml', kml);
+
+fs.writeFileSync('porsche-10.kml', kml);

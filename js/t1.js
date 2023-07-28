@@ -40,3 +40,5 @@ console.log(`JSON string2: ${getStringifiedJSON(getJSONFromString(jsonStr2))}`);
 // test getJSONFromJSON:
 console.log(`JSON 1: ${getStringifiedJSON(getJSONFromJSON(json1))}`);
 console.log(`JSON 2: ${getStringifiedJSON(getJSONFromJSON(json2))}`);
+
+var t = ''
