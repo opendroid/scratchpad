@@ -307,7 +307,47 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
       <Point>
         <coordinates>-93.37136694725237,13.08077084853813,0</coordinates>
       </Point>
-    </Placemark>                                
+    </Placemark>
+    <Placemark>
+      <name>07-28-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:23 PM PST</description>
+      <Point>
+        <coordinates>-97.58116237871312,15.023660321948055,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-29-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:53 PM PST</description>
+      <Point>
+        <coordinates>-102.15804930250326,17.240273296968272,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-30-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 9:33 PM PST</description>
+      <Point>
+        <coordinates>-106.09064061630279,19.536460809861158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>07-31-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:34 PM PST</description>
+      <Point>
+        <coordinates>-109.99194786734662,22.085906438639082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-01-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:40 PM PST</description>
+      <Point>
+        <coordinates>-113.57397199270802,25.341007038048257,0</coordinates>
+      </Point>
+    </Placemark>                                                 
     <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
@@ -327,4 +367,4 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
   </Document>
 </kml>`;
 
-fs.writeFileSync('porsche-10.kml', kml);
+fs.writeFileSync('porsche-11.kml', kml);
