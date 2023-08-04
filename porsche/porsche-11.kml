@@ -47,6 +47,13 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="stevensCreekPlacemark">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/S.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="beniciaPlacemark">
       <IconStyle>
         <Icon>
@@ -801,7 +808,79 @@
       <Point>
         <coordinates>-113.57397199270802,25.341007038048257,0</coordinates>
       </Point>
-    </Placemark>                                                 
+    </Placemark>       
+    <Placemark>
+      <name>08-02-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:15 PM PST</description>
+      <Point>
+        <coordinates>-116.45580974178779,29.034311694242092,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 10:22 AM PST</description>
+      <Point>
+        <coordinates>-118.368534267543,31.2025236052284,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 11:13 AM PST</description>
+      <Point>
+        <coordinates>-118.486119917703,31.3318102604108,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 1:53 PM PST</description>
+      <Point>
+        <coordinates>-118.85924251948,31.7390223637388,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 3:39 PM PST</description>
+      <Point>
+        <coordinates>-119.107019224454,32.0068796213112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 4:53 PM PST</description>
+      <Point>
+        <coordinates>-119.283041694907,32.1959285485687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 5:43 PM PST</description>
+      <Point>
+        <coordinates>-119.40002171516,32.3209964120613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 6:47 PM PST</description>
+      <Point>
+        <coordinates>-119.553062375324,32.4839429060494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-03-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 8:42 PM PST</description>
+      <Point>
+        <coordinates>-119.82940104962331,32.77620219387046,0</coordinates>
+      </Point>
+    </Placemark>                                            
     <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
@@ -812,7 +891,7 @@
     </Placemark>
     <Placemark>
       <name>Porsche Stevens Creek</name>
-      <styleUrl>#beniciaPlacemark</styleUrl>
+      <styleUrl>#stevensCreekPlacemark</styleUrl>
       <description>4155 Stevens Creek Blvd, Santa Clara, CA 95051</description>
       <Point>
         <coordinates>-121.974695,37.3238123,0</coordinates>
