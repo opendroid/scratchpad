@@ -11,7 +11,7 @@ import (
 	openai "github.com/rakyll/openai-go"
 )
 
-// TranscribeUsingWhisper creates a transcription from the given data using OpenAI whisper API
+// TranscribeUsingWhisper creates a transcription from the given location-data using OpenAI whisper API
 func TranscribeUsingWhisper(filename io.Reader) (string, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), time.Second*100)
 	defer cancel()
@@ -38,18 +38,18 @@ func IsAlreadyTranscribed(fileName string) bool {
 
 // TranscribeSafetyFiles transcribes all files in the local storage
 func TranscribeSafetyFiles() {
-	entry, err := os.ReadDir("data/safety")
+	entry, err := os.ReadDir("location-data/safety")
 	if err != nil {
 		fmt.Printf("TranscribeSafetyFiles: %s", err.Error())
 		return
 	}
 	for _, file := range entry {
 		name := file.Name()
-		if f, err := os.Open("data/safety/" + name); err != nil {
+		if f, err := os.Open("location-data/safety/" + name); err != nil {
 			fmt.Printf("TranscribeSafetyFiles: %s", err.Error())
 			continue
 		} else {
-			outName := CreateTxtFileName(name, "data/safety")
+			outName := CreateTxtFileName(name, "location-data/safety")
 			if IsAlreadyTranscribed(outName) {
 				continue
 			}

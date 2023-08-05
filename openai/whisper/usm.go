@@ -52,7 +52,7 @@ func TranscribeGCSBucketUsingUSM() error {
 curl -X POST \
     -H "Authorization: Bearer $(gcloud auth application-default print-access-token)" \
     -H "Content-Type: application/json; charset=utf-8" \
-    --data "{\"languageCodes\": \"en-US\", \"model\": \"latest_long\"}" \
+    --location-data "{\"languageCodes\": \"en-US\", \"model\": \"latest_long\"}" \
     https://speech.googleapis.com/v2/projects/ajayt-cx-experiments/locations/global/recognizers?recognizer_id=RECOGNIZER_ID
 
 */
@@ -71,7 +71,7 @@ func TranscribeGCSBuckets() {
 	fmt.Printf("Found %d files\n", len(objects))
 
 	for i, obj := range objects {
-		out := CreateTxtFileName(obj, "data/out")
+		out := CreateTxtFileName(obj, "location-data/out")
 		if IsAlreadyTranscribed(out) {
 			fmt.Printf("Skipping: exists: %d:%s\n", i+1, out)
 			continue

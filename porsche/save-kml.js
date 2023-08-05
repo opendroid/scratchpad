@@ -1,7 +1,7 @@
 "use strict";
 
 let fs = require('fs');
-let data = require('./data/july-11-2023.json');
+let data = require('./location-data/july-11-2023.json');
 
 const pathData = data.milestones[7].transportRoute.coordinates;
 const path = pathData.map((c) => `${c.lng},${c.lat},0`).join(",\n\t\t");

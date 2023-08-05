@@ -114,7 +114,7 @@ type GPTModel struct {
 // Models response of: curl https://api.openai.com/v1/models -H 'Authorization: Bearer '
 type Models struct {
 	Object string     `json:"object,omitempty"`
-	Model  []GPTModel `json:"data,omitempty"`
+	Model  []GPTModel `json:"location-data,omitempty"`
 }
 
 //go:embed text/models.json
