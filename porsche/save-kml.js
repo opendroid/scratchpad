@@ -1,7 +1,7 @@
 "use strict";
 
 let fs = require('fs');
-let data = require('./location-data/july-11-2023.json');
+let data = require('./location-data/aug-05-2023-on-port.json');
 
 const pathData = data.milestones[7].transportRoute.coordinates;
 const path = pathData.map((c) => `${c.lng},${c.lat},0`).join(",\n\t\t");
@@ -366,7 +366,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 10:22 AM PST</description>
+      <description>At 10:22 AM PST. 470 miles from Stevens Creek Porsche.</description>
       <Point>
         <coordinates>-118.368534267543,31.2025236052284,0</coordinates>
       </Point>
@@ -374,7 +374,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 11:13 AM PST</description>
+      <description>At 11:13 AM PST. 459 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-118.486119917703,31.3318102604108,0</coordinates>
       </Point>
@@ -382,7 +382,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 1:53 PM PST</description>
+      <description>At 1:53 PM PST. 425 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-118.85924251948,31.7390223637388,0</coordinates>
       </Point>
@@ -390,7 +390,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 3:39 PM PST</description>
+      <description>At 3:39 PM PST. 402 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-119.107019224454,32.0068796213112,0</coordinates>
       </Point>
@@ -398,7 +398,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 4:53 PM PST</description>
+      <description>At 4:53 PM PST. 386 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-119.283041694907,32.1959285485687,0</coordinates>
       </Point>
@@ -406,7 +406,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 5:43 PM PST</description>
+      <description>At 5:43 PM PST. 375 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-119.40002171516,32.3209964120613,0</coordinates>
       </Point>
@@ -414,7 +414,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>08-03-2023</name>
       <styleUrl>#yellow-dot</styleUrl>
-      <description>At 6:47 PM PST</description>
+      <description>At 6:47 PM PST. 361 miles from Stevens Creek Porsche</description>
       <Point>
         <coordinates>-119.553062375324,32.4839429060494,0</coordinates>
       </Point>
@@ -426,11 +426,75 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
       <Point>
         <coordinates>-119.82940104962331,32.77620219387046,0</coordinates>
       </Point>
-    </Placemark>                                            
+    </Placemark>    
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 1:35 PM PST. 121 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-121.803011754378,35.5749068148394,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 2:56 PM PST. 105 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-121.938713524327,35.811405168378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 3:15 PM PST. 100 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-121.972835187764,35.8706275635134,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 4:53 PM PST. 70 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-122.238945433179,36.3291367025546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 8:10 PM PST. 48 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-122.441359911188,36.7371430114738,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 9:12 PM PST. 42 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-122.551354499139,36.9177136314556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-04-2023</name>
+      <styleUrl>#yellow-star</styleUrl>
+      <description>At 10:30 PM PST. 42 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-122.692294453295,37.1378059768877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>08-05-2023</name>
+      <styleUrl>#yellow-dot</styleUrl>
+      <description>At 4:54 PM PST. 50 miles from Stevens Creek Porsche</description>
+      <Point>
+        <coordinates>-122.1554058208113,38.03004493170655,0</coordinates>
+      </Point>
+    </Placemark>                                           
     <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
-      <description>California</description>
+      <description>On port at 5:11 AM PST. California</description>
       <Point>
         <coordinates>-122.135274,38.041906,0</coordinates>
       </Point>
@@ -446,4 +510,4 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
   </Document>
 </kml>`;
 
-fs.writeFileSync('porsche-11.kml', kml);
+fs.writeFileSync('porsche-milestones.kml', kml);
