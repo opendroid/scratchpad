@@ -1,6 +1,6 @@
 "use strict";
 
-// Examlpe of JSON:
+// Example of JSON:
 const jsonStr1 = `{"name": "JSON String 1", "description": "This is a valid JSON 1"}`;
 const jsonStr2 = `{"name": "JSON String 2", description: "This is a invalid JSON 2"}`; // Error: needs "description" to be a in quotes
 const json1 = {"name": "JSON 1", "description": "This is a valid JSON 1"};
@@ -24,8 +24,8 @@ function getJSONFromJSON(json) {
   }
 }
 
-// getStringifiedJSON: prints a JSON object as string, in one line
-function getStringifiedJSON(json) {
+// getStringifyJSON: prints a JSON object as string, in one line
+function getStringifyJSON(json) {
   try {
     return JSON.stringify(json);
   } catch (e) {
@@ -35,10 +35,10 @@ function getStringifiedJSON(json) {
 }
 
 // test getJSONFromString:
-console.log(`JSON string1:` + getStringifiedJSON(getJSONFromString(jsonStr1)));
-console.log(`JSON string2: ${getStringifiedJSON(getJSONFromString(jsonStr2))}`);
+console.log(`JSON string1:` + getStringifyJSON(getJSONFromString(jsonStr1)));
+console.log(`JSON string2: ${getStringifyJSON(getJSONFromString(jsonStr2))}`);
 // test getJSONFromJSON:
-console.log(`JSON 1: ${getStringifiedJSON(getJSONFromJSON(json1))}`);
-console.log(`JSON 2: ${getStringifiedJSON(getJSONFromJSON(json2))}`);
+console.log(`JSON 1: ${getStringifyJSON(getJSONFromJSON(json1))}`);
+console.log(`JSON 2: ${getStringifyJSON(getJSONFromJSON(json2))}`);
 
 var t = ''

@@ -11,7 +11,9 @@ import (
 var prompt string
 
 func main() {
-	data := client.SetBisonPayload(prompt)
+	fmt.Println("Getting prediction from post...")
+	data := client.SetBisonPayloadJSON(prompt)
 	client.GetPrediction(data)
-	fmt.Println("Done")
+	fmt.Println("Getting prediction from client...")
+	client.GetPredictionFromClient(prompt)
 }

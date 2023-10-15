@@ -73,7 +73,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>The Factory</name>
       <styleUrl>#factoryPlacemark</styleUrl>
-      <description>Schwieberdinger Str. 130D, 70435 Stuttgart, Germany</description>
+      <description>Schwieberdinger Str. 130D, 70435 Stuttgart, Germany. Left on June 26, 2023</description>
       <Point>
         <coordinates>9.152094199999999,48.8350799,0</coordinates>
       </Point>
@@ -494,7 +494,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>Port Benicia</name>
       <styleUrl>#beniciaPlacemark</styleUrl>
-      <description>On port at 5:11 AM PST. California</description>
+      <description>Arrived on port at Aug 9 at 5:11 AM PST. California</description>
       <Point>
         <coordinates>-122.135274,38.041906,0</coordinates>
       </Point>
@@ -502,7 +502,7 @@ const kml = `<?xml version="1.0" encoding="UTF-8"?>
     <Placemark>
       <name>Porsche Stevens Creek</name>
       <styleUrl>#stevensCreekPlacemark</styleUrl>
-      <description>4155 Stevens Creek Blvd, Santa Clara, CA 95051</description>
+      <description>4155 Stevens Creek Blvd, Santa Clara, CA 95051. Arrived Aug 15th, 2023 Took possession Aug 17.</description>
       <Point>
         <coordinates>-121.974695,37.3238123,0</coordinates>
       </Point>

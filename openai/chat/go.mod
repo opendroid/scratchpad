@@ -1,3 +1,3 @@
 module github.com/opendroid/scratchpad/openai/chat
 
-go 1.19
+go 1.21
